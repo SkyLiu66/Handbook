@@ -1,0 +1,25 @@
+{
+    "Title": "5款开源免费本地知识库大横评，总有一款适合你！",
+    "Content": [
+        {
+            "Knowledge Point": "Anensin LLM 知识库介绍",
+            "Text": "Anensin LLM 是一款支持 Query 模式的知识库，每次查询都会显示所引用的知识库原文并详细标记。"
+        },
+        {
+            "Knowledge Point": "MaxKB 知识库介绍",
+            "Text": "MaxKB 界面简单，支持中文，但只能上传五个文件，单个文件最大 15MB。"
+        },
+        {
+            "Knowledge Point": "DeFi 知识库介绍",
+            "Text": "DeFi 界面简单，支持中文，但只能上传五个文件，单个文件最大 15MB。"
+        },
+        {
+            "Knowledge Point": "FastJPT 知识库介绍",
+            "Text": "FastJPT 可以清晰展示引用的知识库内容，支持最大 1000 个文件，单个文件最大 500MB。"
+        },
+        {
+            "Knowledge Point": "Ragflow 知识库介绍",
+            "Text": "Ragflow 自带大模型，支持知识库作为用户选择，但模型较大。"
+        }
+    ]
+}

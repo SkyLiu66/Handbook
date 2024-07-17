@@ -1,0 +1,11 @@
+{
+    "Title": "5款开源免费本地知识库大横评，总有一款适合你！",
+    "Keywords": [
+        "开源",
+        "免费",
+        "本地",
+        "知识库",
+        "大横评"
+    ],
+    "Content": "This article provides a comprehensive comparison of five popular open-source and free local knowledge bases. Each knowledge base is evaluated based on its features, ease of use, and limitations. The article aims to help users choose the best knowledge base that suits their needs. The five knowledge bases reviewed are Anensin LLM, MaxKB, DeFi, FastJPT, and Ragflow. Anensin LLM is a query-based knowledge base that displays the original knowledge base text and highlights the relevant parts. MaxKB and DeFi have simple interfaces and support Chinese, but they can only upload up to five files, each with a maximum size of 15MB. FastJPT can clearly display the referenced knowledge base content, supports up to 1000 files, and each file can be up to 500MB. Ragflow comes with a large pre-trained model and supports knowledge bases as user choices, but the model size is large. By comparing these knowledge bases, users can make an informed decision on which one to use for their needs."
+}
