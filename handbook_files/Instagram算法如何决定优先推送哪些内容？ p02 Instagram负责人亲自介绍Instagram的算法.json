@@ -1,0 +1,29 @@
+{
+    "Title": "Instagram算法如何决定优先推送哪些内容？ p02 Instagram负责人亲自介绍Instagram的算法",
+    "Content": [
+        {
+            "Knowledge Point": "Understanding Instagram's ranking algorithm",
+            "Text": "Instagram uses a ranking algorithm to determine what content you see in your feed, stories, explore, and reels. The algorithm assesses how interested you might be in each post based on various signals such as post information, author information, your activity, and your history of interactions."
+        },
+        {
+            "Knowledge Point": "Ranking in Feed and Stories",
+            "Text": "In Feed and Stories, the algorithm ranks content based on how interested it thinks you are in each post. It considers post information, author information, your activity, and your history of interactions with the author."
+        },
+        {
+            "Knowledge Point": "Ranking in Explore",
+            "Text": "Explore is different from Feed and Stories as most content is not from accounts you follow. The algorithm ranks Explore content based on collaborative filtering, looking at posts you've liked and people who shared them to find similar content."
+        },
+        {
+            "Knowledge Point": "Ranking in Reels",
+            "Text": "Reels is designed for entertaining short-form mobile videos. The algorithm ranks Reels based on your activity, history of interactions with the author, Reel information, and author information."
+        },
+        {
+            "Knowledge Point": "Shadow banning and community guidelines",
+            "Text": "Shadow banning refers to various issues people face on Instagram, but it's not always about reaching fewer people. Instagram has community guidelines for what can and cannot be shared. The algorithm also has recommendation guidelines for content in Explore and Reels."
+        },
+        {
+            "Knowledge Point": "Influencing what you see on Instagram",
+            "Text": "You can influence what you see by deciding who you follow, using close friends, muting people, and marking content as not interested. Instagram is exploring ways to give users more control over their experiences."
+        }
+    ]
+}

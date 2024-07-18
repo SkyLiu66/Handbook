@@ -1,0 +1,25 @@
+{
+    "Title": "【Code Review】把异步写成同步？async可未必就异步了！",
+    "Content": [
+        {
+            "Knowledge Point": "项目介绍",
+            "Text": "这个项目是一个将B站视频或播放列表转换为Podcast的工具。"
+        },
+        {
+            "Knowledge Point": "代码结构",
+            "Text": "项目结构使用了source的方式，但存在一些问题，如本地模块使用了绝对引用，不符合将项目打包成package的要求。"
+        },
+        {
+            "Knowledge Point": "异步编程",
+            "Text": "项目使用了asyncio，但异步编程的实现并不正确，没有充分利用异步编程的优势。"
+        },
+        {
+            "Knowledge Point": "代码逻辑",
+            "Text": "代码逻辑复杂，存在一些问题，如在初始化过程中没有使用到ebook的优势，没有建立新的任务。"
+        },
+        {
+            "Knowledge Point": "代码优化建议",
+            "Text": "建议优化代码结构，简化逻辑，充分利用异步编程的优势，提高代码可读性。"
+        }
+    ]
+}

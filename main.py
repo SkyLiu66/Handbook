@@ -4,6 +4,7 @@ import mimetypes
 import subprocess
 import os
 import re
+import time
 # from urllib.parse import urlparse
 # import shutil
 
@@ -52,6 +53,7 @@ def video_to_audio(url,output_format="mp3") -> str:
     ]
 
     # 运行ffmpeg命令
+    print(f"Converting file to audio: {url}")
     try:
         subprocess.run(ffmpeg_command, check=True)
         print(f"File converted successfully: {output_file}")
@@ -72,6 +74,7 @@ def download_video(url):
         str: The path to the downloaded video file.
     """
     pass
+
 
 def voice_to_text(file_path) -> str:
     """
@@ -103,6 +106,7 @@ def voice_to_text(file_path) -> str:
         print(f'{output_file} already exists')
         return output_file
     
+    print(f"Converting audio to text: {url}")
     headers = {}
     content_type, _ = mimetypes.guess_type(file_path)
     response = None
@@ -152,18 +156,85 @@ def voice_to_text(file_path) -> str:
 #     except Exception as e:
 #         print(f"An error occurred: {e}")
 
+def call_llm(user_prompt, conversation_id = '7392518350112456711'):
+    #send chat
+    url = f'https://api.coze.com/v3/chat?conversation_id={conversation_id}'
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': "Bearer pat_IM2daM17zmIfuBq9LEfrd6FBsBEV2jOkFb2tyb6w8TihBTiuaHcvIIP1eAhJWnqt"
+    }
+    data = {
+        "bot_id": "7392503554168422408",
+        "user_id": "7389475480333942800",
+        "stream": False,
+        "auto_save_history":True,
+        "additional_messages":[
+            {
+                "role":"user",
+                "content":f"{user_prompt}",
+                "content_type":"text"
+            }
+        ]
+    }
 
-response = voice_to_text("audio_files\\extracted_audio.wav")
+    response = requests.post(url, headers=headers, json=data)
+    data = response.json()
+    while data['code'] != 0:
+        time.sleep(5)
+        print(data)
+        response = requests.post(url, headers=headers, json=data)
+        data = response.json()
+    chat_id = data['data']['id']
+    while True:
+        url = f'https://api.coze.com/v3/chat/retrieve?chat_id={chat_id}&conversation_id={conversation_id}'
+        response = requests.get(url, headers=headers)
+        if not response.json()['data']['status'] == 'completed':
+            time.sleep(5)
+            continue
 
-def call_llm(system_prompt,user_prompt, is_stream,temperature=0.2, top_p=0.3):
+        url = f"https://api.coze.com/v3/chat/message/list?chat_id={chat_id}&conversation_id={conversation_id}"
+        response = requests.get(url, headers=headers)
+        data = response.json()
+        return data['data'][1]['content']
+
+def split_string_with_overlap(input_string, max_length=7000, overlap=1000):
+    # Split the input string into words
+    words = input_string.split()
+    total_words = len(words)
+    
+    # Check if the total number of words is greater than 8000
+    if total_words <= 8000:
+        return [input_string]
+    
+    # Initialize the list to hold the segments
+    segments = []
+    
+    # Split the words into segments with overlap
+    start = 0
+    while start < total_words:
+        end = min(start + max_length, total_words)
+        segment = ' '.join(words[start:end])
+        segments.append(segment)
+        start += (max_length - overlap)
+    
+    return segments
+
+def call_llm2(pre_prompt = '', user_prompt='hello there',system_prompt = "give json file", is_stream = False,temperature=0.2, top_p=0.3):
     url = 'http://192.168.2.95:10000/api/llm/internlm2-chat-20b/generation'
+    url = 'http://192.168.2.143:10000/api/llm/deepseek_v2-lite/generation'
 
-    data = {"model": "internlm2-chat-20B",
-            "messages": [{"role":"system","content": system_prompt},{"role":"user","content": user_prompt}],
+
+    # list_of_prompts = split_string_with_overlap(user_prompt)
+    # return_list = []
+    # for each_prompt in list_of_prompts:
+    data = {"model": "deepseek_v2-lite",
+            "messages": [{"role":"system","content": system_prompt},{"role":"user","content": pre_prompt+user_prompt}],
             "stream": is_stream,
             "temperature": temperature,
             "top_p": top_p
             }
+
+
 
     with requests.post(url, json=data, stream=is_stream) as response:
         if response.status_code == 200:
@@ -179,9 +250,11 @@ def call_llm(system_prompt,user_prompt, is_stream,temperature=0.2, top_p=0.3):
                 response_data = response.json()
                 final_response = response_data
             return final_response
+            # return_list.append(final_response)
         else:
             print('Failed to retrieve data:', response.status_code)
-
+            # return []
+# return return_list
 
 
 def get_absolute_paths(folder_path):
@@ -236,13 +309,16 @@ def text_to_handbook(json_input_url):
             "Knowledge Point": Knowledge Point 2,             "Text": "paragraph content2"         }, }  
 
             text input : <>"""
+    
+    print(f"Converting text to handbook: {json_input_url}")
     try:
         # Ensure the file exists
         with open(json_input_url, 'r', encoding='utf-8') as file:
             # Read the file content as a string
             json_string = file.read()
-            all_prompt = prompt_handbook + json_string
-            data = call_llm("return only the json file", all_prompt, False)
+            data = call_llm2(prompt_handbook, json_string)
+            if data is None:
+                return None
             json_match = re.search(r'```json\n(.*?)\n```', data, re.DOTALL)
             if json_match:
                 json_content = json_match.group(1)
@@ -260,6 +336,8 @@ def text_to_handbook(json_input_url):
         print(f"The file at {json_input_url} does not exist.")
     except Exception as e:
         print(f"An error occurred: {e}")
+
+# text_to_handbook(r"C:\Users\skyliu\Documents\GitHub\Handbook\text_output_files\Embracing the Simple Life ｜ Tao Te Ching Chapter 80.json")
 
 def text_to_knowledge_point(json_input_url):
     #检查音频文件是否存在
@@ -293,13 +371,17 @@ def text_to_knowledge_point(json_input_url):
         }
         input json: 
         """    
+    
+    print(f"Converting text to knowledge point: {json_input_url}")
+
     try:
         # Ensure the file exists
         with open(json_input_url, 'r', encoding='utf-8') as file:
             # Read the file content as a string
             json_string = file.read()
-            all_prompt = prompt_knowledge_point + json_string
-            data = call_llm("return only the json content", all_prompt, False)
+            data = call_llm2(prompt_knowledge_point, json_string)
+            if data is None:
+                return None
             with open(output_file, 'w', encoding='utf-8') as f:
                 data = json.loads(data)
                 if "Title" in data:
@@ -325,5 +407,6 @@ if __name__ == "__main__":
             continue
         done = voice_to_text(audio_path)
         
-        # handbook_text_url = text_to_handbook(done)
-        # text_to_knowledge_point(handbook_text_url)
+        if done is not None:
+            handbook_text_url = text_to_handbook(done)
+            text_to_knowledge_point(done)
