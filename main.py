@@ -221,7 +221,7 @@ def split_string_with_overlap(input_string, max_length=7000, overlap=1000):
 
 def call_llm2(pre_prompt = '', user_prompt='hello there',system_prompt = "give json file", is_stream = False,temperature=0.2, top_p=0.3):
     url = 'http://192.168.2.95:10000/api/llm/internlm2-chat-20b/generation'
-    url = 'http://192.168.2.143:10000/api/llm/deepseek_v2-lite/generation'
+    # url = 'http://192.168.2.143:10000/api/llm/deepseek_v2-lite/generation'
 
 
     # list_of_prompts = split_string_with_overlap(user_prompt)
@@ -324,9 +324,11 @@ def text_to_handbook(json_input_url):
                 json_content = json_match.group(1)
                 with open(output_file, 'w', encoding='utf-8') as f:
                     data = json.loads(json_content)
-                    if "Title" in data:
-                        data["Title"] = file_name
-                    json.dump(data, f, ensure_ascii=False, indent=4)
+                    # if "Title" in data:
+                    #     data["Title"] = file_name
+                    list_tmp = list()
+                    list_tmp.append(data)
+                    json.dump(list_tmp, f, ensure_ascii=False, indent=4)
                     print(f"Response saved to {output_file}")
                     return output_file
             
@@ -382,13 +384,18 @@ def text_to_knowledge_point(json_input_url):
             data = call_llm2(prompt_knowledge_point, json_string)
             if data is None:
                 return None
-            with open(output_file, 'w', encoding='utf-8') as f:
-                data = json.loads(data)
-                if "Title" in data:
-                    data["Title"] = file_name
-                json.dump(data, f, ensure_ascii=False, indent=4)
-                print(f"Response saved to {output_file}")
-                return output_file
+            json_match = re.search(r'```json\n(.*?)\n```', data, re.DOTALL)
+            if json_match:
+                data = json_match.group(1)
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    data = json.loads(data)
+                    # if "Title" in data:
+                    #     data["Title"] = file_name
+                    list_tmp = list()
+                    list_tmp.append(data)
+                    json.dump(list_tmp, f, ensure_ascii=False, indent=4)
+                    print(f"Response saved to {output_file}")
+                    return output_file
             
 
     
