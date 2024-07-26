@@ -362,17 +362,38 @@ def text_to_knowledge_point(json_input_url):
     
 
     prompt_knowledge_point = """
-    Based on the json file below, 
-        1. figure out what category or topic the article is about, give me a list of keywords, make sure the topic is related to the article
-        2. give me at most 300 english words concise advice and reason behind, don't make it up
-        3. give me in json format like:
+Given text input wrapped by <>.
+      The text input might contain typos, duplicates, other kinds of errors. Do the following:
+      1. Add punctuations if it absent, reduce duplicates, remove personal introduction and translate to English if not. 
+      2.give me 3 key ideas
+      3.for each key point, answer this question in 150 to 300 words in instructional tone:  how can I make a good content for my post
+      4. reformat each key point to : Title, Keywords, Content like:  
+    [{
+        Title: knowledge idea 1,
+        Keywords: [keyword1, keyword2],
+        Content:content1,
+    },
         {
-        "Title": "the_title",
-        "Keywords": [keyword1, keyword2],
-        "Content": "advices"
-        }
-        input json: 
-        """    
+        Title: knowledge idea 2,
+        Keywords: [keyword1, keyword2],
+        Content:content2,
+    },]
+5. warp results from 4 and return a json list and return this json list
+
+text input : <>
+    """
+    # """
+    # Based on the json file below, 
+    #     1. figure out what category or topic the article is about, give me a list of keywords, make sure the topic is related to the article
+    #     2. give me at most 300 english words concise advice and reason behind, don't make it up
+    #     3. give me in json format like:
+    #     {
+    #     "Title": "the_title",
+    #     "Keywords": [keyword1, keyword2],
+    #     "Content": "advices"
+    #     }
+    #     input json: 
+    #     """    
     
     print(f"Converting text to knowledge point: {json_input_url}")
 
@@ -381,7 +402,7 @@ def text_to_knowledge_point(json_input_url):
         with open(json_input_url, 'r', encoding='utf-8') as file:
             # Read the file content as a string
             json_string = file.read()
-            data = call_llm2(prompt_knowledge_point, json_string)
+            data = call_llm2(prompt_knowledge_point, json_string, 'return in English')
             if data is None:
                 return None
             json_match = re.search(r'```json\n(.*?)\n```', data, re.DOTALL)
@@ -407,13 +428,14 @@ def text_to_knowledge_point(json_input_url):
 
 
 if __name__ == "__main__":
-    paths = get_absolute_paths(r"D:\vt-dlp\vt-dlp downloads")
+    paths = get_absolute_paths(r"C:\Users\skyliu\Documents\GitHub\Handbook\audio_files")
+    # (r"D:\vt-dlp\vt-dlp downloads")
     for path in paths:
-        audio_path = video_to_audio(path)
-        if audio_path == None:
-            continue
-        done = voice_to_text(audio_path)
+        # audio_path = video_to_audio(path)
+        # if audio_path == None:
+        #     continue
+        done = voice_to_text(path)
         
         if done is not None:
-            handbook_text_url = text_to_handbook(done)
+            # handbook_text_url = text_to_handbook(done)
             text_to_knowledge_point(done)
