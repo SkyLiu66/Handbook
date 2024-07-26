@@ -1,0 +1,27 @@
+[
+    {
+        "Title": "The Importance of Fit and Proportion in Dressing",
+        "Content": [
+            {
+                "Knowledge Point": "The importance of fit and proportion in dressing",
+                "Text": "The text input might contain typos, duplicates, other kinds of errors. Do the following:\n1. Add punctuations if it absent, clean it up, split the content to paragraph\n2. for each paragraph, summary the paragraph context into Knowledge Point for around 30 words\n3. Translate the output to English. Transform the paragraph context and Knowledge Point into json format like:\n{    \"Title\": \"title\",\n    \"Content\": [\n        {            \"Knowledge Point\": Knowledge Point 1,\n            \"Text\": \"paragraph content1\"         }, {\n            \"Knowledge Point\": Knowledge Point 2,\n            \"Text\": \"paragraph content2\"         },\n    ]\n\n"
+            },
+            {
+                "Knowledge Point": "Balancing proportions and the universal rules of fit",
+                "Text": "Balancing out your proportions means balancing your top and your bottom to highlight exactly as it truly is. The rules around fit and proportion are universal. It doesn't matter what age you are, what gender you identify as, they are universal. It doesn't matter if you're a size 2, 4, 6, 16, or 26. As long as you are balancing out your proportions, you are going to flatter your body in the very best way."
+            },
+            {
+                "Knowledge Point": "The importance of fit in trousers and jeans",
+                "Text": "The most common thing I hear when people are looking to dress a certain way is that they are struggling. They are struggling to find clothes that fit them because they have a long torso. That is actually not a thing. What you're doing is you're currently shopping for the wrong length of shirt. You're currently shopping for the wrong length of pant. You don't have a problematic body type. You just need to learn how to dress for it."
+            },
+            {
+                "Knowledge Point": "The importance of proportion in tops",
+                "Text": "The thing that is incredibly important is the length. I want to mention something also that's incredibly important. If you want to make a look you're going for, fine, go for it. You can do oversized, you can do voluminous, you can do extra long. But if you are wanting to make the very best of your proportions, this is a lesson you need to learn. If you are wanting to look as tall as possible, you want to make sure that the length of your shirt is appropriate for the length of your body."
+            },
+            {
+                "Knowledge Point": "Tailoring for a perfect fit",
+                "Text": "The key to looking refined and sophisticated on a budget is choosing the right clothing initially, and then having them tailored to perfection. There is this wild common misconception, I think it's some kind of dodgy propaganda, that tailors cost a lot, that it costs a dime. It's not a bad thing to have a man fortune to get things tailored. It doesn't. It's actually really well priced, if you're going somewhere normal."
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+ [
+        {
+            "Title": "Batch Uploading Products on Xiaohongshu Using a Computer",
+            "Keywords": ["Xiaohongshu", "batch upload", "product management"],
+            "Content": "To batch upload products on Xiaohongshu using a computer, follow these steps: First, log in to the Xiaohongshu Merchant Management Backend using the desktop app. Once logged in, navigate to the 'Services' section located at the bottom left. Click on 'My Services' or 'Service Market' to enter the service market interface. Under the 'Chip Services' section, you will find third-party apps for uploading products. One commonly used app is 'Moyi Assistant,' which offers a one-week free trial. Click on 'Moyi Assistant' and proceed to bind your Xiaohongshu store for authentication. After binding, you will be directed to the product upload interface. Here, you can paste up to 100 product links from platforms like Pinduoduo, but it is recommended to paste no more than 10 links at a time to avoid lag. Adjust the product prices as needed, then save the settings. Finally, click 'Upload and Submit' to batch upload your products. Once the upload is complete and approved, you can view the products in the 'Product Management' section of your Xiaohongshu Merchant Management Backend."
+        },
+        {
+            "Title": "Setting Product Prices for Batch Uploads",
+            "Keywords": ["product pricing", "batch upload", "Xiaohongshu"],
+            "Content": "When batch uploading products on Xiaohongshu, setting the right prices is crucial. After pasting the product links into the upload interface, you need to adjust the prices according to your profit margin. For example, if a product on Pinduoduo is priced at 9.9 yuan and you want to add a 10 yuan profit margin, you should set the price to 19.9 yuan. Similarly, if you want to add a 20 yuan profit margin, set the price to 29.9 yuan. Ensure that you only adjust the price settings and leave other settings unchanged. Once the prices are set, save the settings and proceed with the batch upload. This method ensures that your products are competitively priced while allowing you to maintain a healthy profit margin."
+        },
+        {
+            "Title": "Managing Uploaded Products on Xiaohongshu",
+            "Keywords": ["product management", "Xiaohongshu", "merchant backend"],
+            "Content": "After successfully batch uploading products on Xiaohongshu, managing these products is the next step. Once the upload process is complete and the products are approved, they will appear in the 'Product Management' section of your Xiaohongshu Merchant Management Backend. Navigate to 'Product Management' and then to 'Product List' to view all your uploaded products. Here, you can manage your inventory, update product details, and monitor sales performance. Regularly check this section to ensure that all products are correctly listed and to make any necessary adjustments. Effective product management helps in maintaining an organized store and improving overall sales performance."
+        }
+    ]
