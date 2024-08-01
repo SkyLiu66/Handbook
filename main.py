@@ -188,7 +188,10 @@ def call_llm(user_prompt, conversation_id = '7392518350112456711'):
     while True:
         url = f'https://api.coze.com/v3/chat/retrieve?chat_id={chat_id}&conversation_id={conversation_id}'
         response = requests.get(url, headers=headers)
-        if not response.json()['data']['status'] == 'completed':
+        if response.json()['data']['status'] == 'failed':
+            return None
+
+        elif not response.json()['data']['status'] == 'completed':
             time.sleep(5)
             continue
 
@@ -374,7 +377,7 @@ Given text input wrapped by <>.
       The text input might contain typos, duplicates, other kinds of errors. Do the following:
       1. Add punctuations if it absent, reduce duplicates, remove personal introduction and translate to English if not. 
       2.give me 3 key ideas
-      3.for each key point, answer this question in 150 to 300 words in instructional tone:  how can I make a good content for my post
+      3.for each key point, answer this question in 150 to 300 words in instructional tone:  the details about the key point
       4. reformat each key point to : Title, Keywords, Content like:  
     [{
         Title: knowledge idea 1,
@@ -439,12 +442,15 @@ text input : <>
 if __name__ == "__main__":
     paths = get_absolute_paths(r"C:\Users\skyliu\Documents\GitHub\Handbook\audio_files")
     # (r"D:\vt-dlp\vt-dlp downloads")
+    count = 50
     for path in paths:
         # audio_path = video_to_audio(path)
         # if audio_path == None:
         #     continue
         done = voice_to_text(path)
         
-        if done is not None:
+        if done is not None and count > 0:
             # handbook_text_url = text_to_handbook(done)
-            text_to_knowledge_point(done)
+            output = text_to_knowledge_point(done)
+            if output is not None:
+                count -= 1
