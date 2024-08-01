@@ -1,0 +1,17 @@
+ [
+        {
+            "Title": "Order Price Adjustment",
+            "Keywords": ["order management", "price adjustment", "customer service"],
+            "Content": "To adjust the price of an order after a customer has placed it but before payment, follow these steps: In the Xiaohongshu merchant management backend, navigate to 'Transactions' and then 'Order Management.' Filter the orders by 'Pending Payment' and locate the specific order. Click to modify the price or shipping fee. For example, if the original payable amount is 82 yuan and you want to offer a 3 yuan discount, adjust the payable amount to 79 yuan. On the mobile app, go to 'All Orders,' select 'Pending Payment,' and then choose the order to modify the price and shipping fee. Confirm the changes to finalize the price adjustment."
+        },
+        {
+            "Title": "Handling Late Shipments",
+            "Keywords": ["late shipment", "compensation", "logistics score"],
+            "Content": "As of June, Xiaohongshu has implemented a rule where late shipments require compensation and affect the store's logistics score. The compensation is 5% of the payment amount, with a minimum of 3 yuan and a maximum of 30 yuan. For instance, if the payment amount is 150 yuan, the compensation would be 7.5 yuan, rounded up to 8 yuan. This amount is deducted from your account balance and given to the buyer as a no-threshold coupon. To avoid late shipments, especially for dropshipping merchants, consider purchasing 'gift orders' from platforms like 1688 or Pinduoduo. These orders generate tracking numbers quickly, which can be used to mark the order as shipped. Once the actual tracking number is available, update the order with the real tracking number to avoid customer complaints about false shipments."
+        },
+        {
+            "Title": "Collecting Additional Fees",
+            "Keywords": ["additional fees", "small payments", "customer transactions"],
+            "Content": "If a customer is willing to pay extra for expedited shipping or other services, avoid sharing payment information directly to prevent the platform from flagging the transaction as off-platform. Instead, use Xiaohongshu's small payment feature. In the Xiaohongshu Workbench, enter the chat window with the customer. If both parties are online, the 'Small Payment' option will appear. The customer must complete the payment within the specified time for the transaction to be successful."
+        }
+    ]

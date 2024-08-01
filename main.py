@@ -195,7 +195,10 @@ def call_llm(user_prompt, conversation_id = '7392518350112456711'):
         url = f"https://api.coze.com/v3/chat/message/list?chat_id={chat_id}&conversation_id={conversation_id}"
         response = requests.get(url, headers=headers)
         data = response.json()
-        return data['data'][1]['content']
+        for message in data['data']:
+            if message['type'] == 'answer':
+                return message['content']
+        return None
 
 def split_string_with_overlap(input_string, max_length=7000, overlap=1000):
     # Split the input string into words
@@ -310,6 +313,11 @@ def text_to_handbook(json_input_url):
 
             text input : <>"""
     
+    
+    """Given text input wrapped by <>.
+      The text input might contain typos, duplicates, other kinds of errors. Do the following:
+      1. Add punctuations if it absent, clean it up, split the content to paragraph
+            text input : <>"""
     print(f"Converting text to handbook: {json_input_url}")
     try:
         # Ensure the file exists
@@ -402,21 +410,22 @@ text input : <>
         with open(json_input_url, 'r', encoding='utf-8') as file:
             # Read the file content as a string
             json_string = file.read()
-            data = call_llm2(prompt_knowledge_point, json_string, 'return in English')
+            data = call_llm(prompt_knowledge_point + json_string)
             if data is None:
                 return None
-            json_match = re.search(r'```json\n(.*?)\n```', data, re.DOTALL)
-            if json_match:
-                data = json_match.group(1)
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    data = json.loads(data)
-                    # if "Title" in data:
-                    #     data["Title"] = file_name
-                    list_tmp = list()
-                    list_tmp.append(data)
-                    json.dump(list_tmp, f, ensure_ascii=False, indent=4)
-                    print(f"Response saved to {output_file}")
-                    return output_file
+            # json_match = re.search(r'```json\n(.*?)\n```', data, re.DOTALL)
+            # if json_match:
+            #     data = json_match.group(1)
+            with open(output_file, 'w', encoding='utf-8') as f:
+                data = json.loads(data)
+                # if "Title" in data:
+                #     data["Title"] = file_name
+                data = data['key_ideas']
+                # list_tmp = list()
+                # list_tmp.append(data)
+                json.dump(data, f, ensure_ascii=False, indent=4)
+                print(f"Response saved to {output_file}")
+                return output_file
             
 
     

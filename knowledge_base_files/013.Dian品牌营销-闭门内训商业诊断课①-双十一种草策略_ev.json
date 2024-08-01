@@ -1,0 +1,17 @@
+ [
+        {
+            "Title": "Understanding DMP Audience Packages",
+            "Keywords": ["DMP", "audience packages", "Xiaohongshu"],
+            "Content": "DMP (Data Management Platform) audience packages are created based on tag words and user interactions with certain posts. These packages are often small in size, making it difficult to scale effectively. To create good content for your post, focus on identifying the key tags that resonate with your target audience. Use analytics tools to track user interactions and refine your tags accordingly. Ensure that your content is engaging and relevant to the tags you are targeting. By doing so, you can create more effective audience packages that drive better engagement and results."
+        },
+        {
+            "Title": "Differentiating Between Grass Planting Notes and Product Notes",
+            "Keywords": ["grass planting notes", "product notes", "Xiaohongshu"],
+            "Content": "Grass planting notes and product notes serve different purposes. Grass planting notes aim to build brand awareness and accumulate A1 to A3 audience segments through various types of content, such as marketing notes, user stories, and brand narratives. Product notes, on the other hand, are designed to drive direct purchases and can move users from awareness to purchase (A1 to A4) quickly. To create effective content, identify whether your product is suitable for direct purchase. Products with a low price point (under 200 RMB) and those that do not require extensive comparison shopping are ideal for product notes. For grass planting notes, focus on storytelling and user experiences to build brand affinity and awareness."
+        },
+        {
+            "Title": "Measuring and Improving Note Recall Rate",
+            "Keywords": ["note recall rate", "Xiaohongshu", "content effectiveness"],
+            "Content": "The note recall rate measures how often users who see a note in their feed search for the brand afterward. A high recall rate indicates effective grass planting, while a low rate suggests the need for improvement. To create content that boosts recall rate, focus on crafting compelling and memorable notes. Use engaging visuals, clear messaging, and strong calls to action. Test your notes over a three-day period to gauge interaction rates and adjust your strategy based on the results. Additionally, consider using targeted keywords to ensure your notes appear in relevant search results, further increasing the likelihood of user engagement and recall."
+        }
+    ]

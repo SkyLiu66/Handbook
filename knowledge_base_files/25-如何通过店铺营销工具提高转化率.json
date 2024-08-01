@@ -1,0 +1,17 @@
+ [
+        {
+            "Title": "Increasing Follower Engagement with Exclusive Coupons",
+            "Keywords": ["follower engagement", "exclusive coupons", "Xiaohongshu"],
+            "Content": "To increase follower engagement on Xiaohongshu, use exclusive coupons. Start by accessing the merchant management backend, click on 'Marketing', then 'Coupon Operations Center', and select 'Create New Store Coupon'. Choose 'Exclusive Coupon for Followers'. Name the activity and set the availability period, which should not exceed 30 days. Define the usage time as either absolute (within a certain number of days after claiming) or relative (within a certain number of days after claiming). Set a low threshold to attract more users and a minimal coupon value, even as low as one yuan. Set the total issuance quantity, typically between 200 to 500. After setting up, click 'Create Activity'. The coupon will be displayed on the store's homepage, encouraging users to follow your account for exclusive deals."
+        },
+        {
+            "Title": "Boosting Purchase Conversion with Universal Coupons",
+            "Keywords": ["purchase conversion", "universal coupons", "Xiaohongshu"],
+            "Content": "To boost purchase conversion rates, use universal coupons. In the merchant management backend, click 'Marketing', then 'Coupon Operations Center', and select 'Create New Store Coupon'. Choose 'Automatic Promotion for All Products'. Fill in the details similarly to the exclusive follower coupons. Pay special attention to the low-price warning to ensure you don't incur losses. Set the coupon value based on your cost calculations. Once created, the coupon will be displayed in the product section under 'Industry Coupons'. If you prefer to apply the coupon to specific products rather than the entire store, go to 'Product Promotions' and choose either single or multiple product promotions. Set the discount conditions, such as 'Spend X amount to get Y discount'. This strategy helps in increasing the purchase conversion rate by offering attractive deals."
+        },
+        {
+            "Title": "Utilizing Promotional Tools for Specific Products",
+            "Keywords": ["promotional tools", "specific products", "Xiaohongshu"],
+            "Content": "To effectively promote specific products, use targeted promotional tools. In the merchant management backend, click 'Marketing', then 'Coupon Operations Center', and select 'Product Promotions'. Choose either single or multiple product promotions. For example, set a 'Spend X amount to get Y discount' promotion. Name the promotion, such as 'New Year Sale' or 'Dress Discount Coupon', and set the activity period, which should not exceed 30 days. Define the user range as 'All Users' and specify the products or SKUs eligible for the promotion. Ensure the discount amount is calculated to avoid losses. Note that if both exclusive follower coupons and spend-based discounts are set, users can only use one coupon at a time. However, if there's a platform-wide discount event, users can combine store and platform coupons. These promotional tools help in driving sales for specific products by offering targeted discounts."
+        }
+    ]

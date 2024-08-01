@@ -1,0 +1,17 @@
+[
+        {
+            "Title": "Batch Collecting Popular Notes and Blogger Information",
+            "Keywords": ["batch collecting", "popular notes", "blogger information"],
+            "Content": "To batch collect popular notes and corresponding blogger information, start by selecting a topic with various notes, mostly popular ones. Click the share button on the top right and copy the link. Use a tool called Houyi Collector on your computer. Paste the copied link and click 'Smart Collect'. The tool will automatically load and identify all collectible content, including titles, blogger information, and note details. For deeper insights, such as the blogger's follower count and engagement metrics, use the 'Deep Collect' option. Select 'Title Link' to access the blogger's profile and add fields for follower count, likes, and collections. Start the collection process and export the data into a spreadsheet for further analysis."
+        },
+        {
+            "Title": "Using Houyi Collector for Data Collection",
+            "Keywords": ["Houyi Collector", "data collection", "automation"],
+            "Content": "Houyi Collector is a powerful tool for automating the collection of data from popular notes and bloggers. After copying the link of a topic with popular notes, paste it into Houyi Collector and use the 'Smart Collect' feature. The tool will identify and collect all relevant data, including note titles, blogger profiles, and engagement metrics. For more detailed information, use the 'Deep Collect' feature to gather additional data such as follower counts and total likes. This automated process saves time and ensures comprehensive data collection for further analysis and strategy development."
+        },
+        {
+            "Title": "Analyzing Collected Data for Strategic Insights",
+            "Keywords": ["data analysis", "strategic insights", "blogger engagement"],
+            "Content": "Once you have collected data using Houyi Collector, export it into a spreadsheet for analysis. Focus on key metrics such as follower counts, likes, and collections to identify influential bloggers and popular notes. Prioritize bloggers with low follower counts but high engagement, as they are ideal for mimicking successful strategies. Analyze the content of their notes, including titles and engagement metrics, to understand what makes them successful. Use this information to refine your own content strategy, targeting similar audiences and optimizing for higher engagement and visibility."
+        }
+    ]
