@@ -442,7 +442,7 @@ text input : <>
 if __name__ == "__main__":
     paths = get_absolute_paths(r"C:\Users\skyliu\Documents\GitHub\Handbook\audio_files")
     # (r"D:\vt-dlp\vt-dlp downloads")
-    count = 50
+    count = 100
     for path in paths:
         # audio_path = video_to_audio(path)
         # if audio_path == None:
