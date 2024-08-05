@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Logging into Xiaohongshu Merchant Management",
+        "Keywords": [
+            "Xiaohongshu",
+            "merchant management",
+            "login"
+        ],
+        "Content": "To begin listing products on Xiaohongshu, you must first log into the Xiaohongshu Merchant Management backend. Navigate to the website and enter your login credentials. Once logged in, you will see a toolbar on the left side of the screen. This toolbar contains various options for managing your store. Click on the 'Products' section and then select 'Publish Product.' This will take you to the product listing page where you can start the process of adding new items to your store. Logging in is the first and essential step to access all the tools and features needed for product management."
+    },
+    {
+        "Title": "Filling in Product Details",
+        "Keywords": [
+            "product details",
+            "listing",
+            "Xiaohongshu"
+        ],
+        "Content": "After accessing the product listing page, the next step is to fill in the product details. Start by entering the product title, which can be copied from your existing records. For example, if you are listing flip-flops, you might use a title like 'Comfortable Flip-Flops.' Next, fill in the mandatory fields marked in red, such as shoe style, function, and target audience. For instance, you can specify the style as 'casual' or 'ins style,' and the shoe type as 'round toe.' Additionally, provide information on available colors and sizes. You can upload images for each color variant and specify sizes like 37-38, 39-40, etc. Completing these details accurately ensures that customers have all the necessary information to make a purchase decision."
+    },
+    {
+        "Title": "Setting Prices, Inventory, and Shipping",
+        "Keywords": [
+            "prices",
+            "inventory",
+            "shipping"
+        ],
+        "Content": "The final steps involve setting prices, inventory levels, and shipping details. On the product listing page, you will find options to enter the price and stock quantity. For example, you can set the price at $9.99 and the inventory at 10,000 units. Next, upload the main product image and any additional images that describe the product. Scroll down to configure the shipping details, such as whether the product is available for pre-sale and the shipping time (e.g., 48 hours). You also need to select a pre-configured shipping template that specifies the shipping cost and regions where delivery is available. Finally, choose whether to publish the product immediately or manually after review. Ensure that you also set the after-sales service options, like a 7-day return policy. Once all details are filled in, click 'Submit Product' to list the item in your store."
+    }
+]

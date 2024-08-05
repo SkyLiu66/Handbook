@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Uploading Products on Xiaohongshu Merchant App",
+        "Keywords": [
+            "Xiaohongshu",
+            "Merchant App",
+            "product upload"
+        ],
+        "Content": "To upload products on the Xiaohongshu Merchant App, follow these steps. First, open the Xiaohongshu Merchant App and navigate to the 'Publish Product' section. Click on 'Upload Product' and prepare the necessary product information in advance. For example, if you are uploading a pair of shoes, ensure you have the product title, main images, and detailed images ready. Copy and paste the product title, and upload the main product image, which is crucial as it is the first thing users see. Ensure the main image is attractive. Next, add product details such as specifications, colors, and sizes. For instance, if the shoes come in different colors like beige and black, add these options along with their respective images. Specify the sizes and any relevant details like fit. Set the inventory and pricing by either using a reference price or setting your own. Confirm the settings and proceed to the product attributes section. Choose appropriate attributes like style and target audience. Finally, upload the detailed product images, set the logistics and shipping options, and submit the product for listing. This process ensures your product is well-presented and ready for sale on Xiaohongshu."
+    },
+    {
+        "Title": "Setting Product Specifications and Attributes",
+        "Keywords": [
+            "product specifications",
+            "attributes",
+            "details"
+        ],
+        "Content": "Setting product specifications and attributes is a critical step in ensuring your product is accurately represented on Xiaohongshu. Begin by defining the product's specifications such as color, size, and any unique features. For example, if you are listing shoes, specify the available colors (e.g., beige, black) and sizes (e.g., 36-37, 38-39). Use the app's interface to add these details, ensuring each variant has the correct image associated with it. Accurate specifications help customers make informed decisions and reduce the likelihood of returns. Next, set the product attributes, which include style, target audience, and any special features. For instance, if the shoes are casual and suitable for all age groups, select these options. Attributes help in categorizing the product correctly, making it easier for users to find it through search and filters. Additionally, fill in optional attributes if they add value to the product description. Once all specifications and attributes are set, review them for accuracy before saving. Properly setting these details ensures that your product is well-categorized, easily searchable, and provides all necessary information to potential buyers."
+    },
+    {
+        "Title": "Configuring Logistics and Shipping Options",
+        "Keywords": [
+            "logistics",
+            "shipping",
+            "configuration"
+        ],
+        "Content": "Configuring logistics and shipping options is essential for ensuring a smooth delivery process for your products on Xiaohongshu. Start by selecting a logistics template that matches your product type. For instance, if you are selling shoes, choose a template that specifies the shipping method and delivery time. Set the shipping time to a reasonable period, such as 48 hours, to ensure prompt delivery. Next, configure the shipping fees. If you have predefined shipping templates on your computer, select the appropriate one for the product. Ensure that the template includes any regional restrictions, such as not shipping to certain areas. For example, if you do not ship to Tibet, make sure this is reflected in the template. Additionally, set the after-sales service options, such as a 7-day return policy, if applicable. This provides customers with confidence in their purchase. Finally, set the product's availability status to 'immediately available upon approval' and submit the product listing. Properly configuring logistics and shipping options ensures that your products are delivered efficiently and meet customer expectations, thereby enhancing their shopping experience."
+    }
+]

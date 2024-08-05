@@ -440,17 +440,17 @@ text input : <>
 
 
 if __name__ == "__main__":
-    paths = get_absolute_paths(r"C:\Users\skyliu\Documents\GitHub\Handbook\audio_files")
+    paths = get_absolute_paths(r"C:\Users\skyliu\Documents\GitHub\Handbook\text_output_files")
     # (r"D:\vt-dlp\vt-dlp downloads")
     count = 100
     for path in paths:
         # audio_path = video_to_audio(path)
         # if audio_path == None:
         #     continue
-        done = voice_to_text(path)
+        # done = voice_to_text(path)
         
-        if done is not None and count > 0:
+        # if done is not None and count > 0:
             # handbook_text_url = text_to_handbook(done)
-            output = text_to_knowledge_point(done)
-            if output is not None:
-                count -= 1
+        if path is not None and count > 0:
+            output = text_to_knowledge_point(path)
+            count -= 1

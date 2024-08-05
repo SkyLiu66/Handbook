@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Adding Keywords to Posts",
+        "Keywords": [
+            "keywords",
+            "posts",
+            "search plan"
+        ],
+        "Content": "To add keywords to your posts, follow these steps: First, navigate to the keyword section and click on 'New Keyword.' Enter the desired keyword and assign it to your search plan. Confirm your selection, and the keyword will be added to your post. This process allows you to optimize your content for search engines, making it easier for users to find your posts. Adding relevant keywords can significantly improve your post's visibility and engagement. Ensure that the keywords you choose are relevant to the content of your post and are terms that your target audience is likely to search for. Regularly updating your keywords based on trending topics and user behavior can also help maintain your post's relevance and visibility."
+    },
+    {
+        "Title": "Creating New Posts and Assigning Them to Streams",
+        "Keywords": [
+            "new posts",
+            "information stream",
+            "search stream"
+        ],
+        "Content": "To create new posts and assign them to either the information stream or the search stream, start by clicking on the 'Creative' section. Then, click on 'New Creative' and decide whether you want to place your post in the information stream or the search stream. Select the appropriate option and confirm your choice. This categorization helps in targeting the right audience and optimizing the post's reach. The information stream is ideal for general content that you want to push to a broader audience, while the search stream is more suited for content that is optimized for specific keywords and search queries. By strategically placing your posts in the right stream, you can enhance their visibility and engagement."
+    },
+    {
+        "Title": "Adjusting Bid Prices for Ads",
+        "Keywords": [
+            "bid prices",
+            "ads",
+            "adjustment"
+        ],
+        "Content": "To adjust the bid prices for your ads, go to the 'Unit' section and click on 'Edit.' Scroll down to the bottom where you will find the bid price option. Modify the bid price according to your budget and campaign goals, then save the changes. Adjusting bid prices is crucial for optimizing your ad spend and ensuring that your ads are competitive in the auction process. Higher bid prices can increase the likelihood of your ads being shown, but it's essential to balance this with your overall budget. Regularly monitor the performance of your ads and adjust the bid prices as needed to achieve the best results. This practice helps in maximizing the return on investment (ROI) for your advertising campaigns."
+    }
+]

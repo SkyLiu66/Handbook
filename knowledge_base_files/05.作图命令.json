@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Common Commands in Miljoney for Drawing",
+        "Keywords": [
+            "Miljoney",
+            "commands",
+            "drawing"
+        ],
+        "Content": "Miljoney offers a variety of commands to facilitate drawing and image creation. The 'Ask' command is used to get answers to questions related to drawing, although it is limited to questions relevant to the software. The 'Image' command is the most commonly used for creating images with keywords. 'Relax' mode allows for unlimited image creation but at a slower pace, while 'Fast' mode speeds up the process but has time limitations based on the subscription level. 'Remix' mode enables users to make slight adjustments to images by modifying keywords. 'Blend' mode allows for the fusion of two images into a new one. Other useful commands include 'Help' for basic information, 'Info' for account details, 'Stealth' for private image creation, 'Public' for sharing images in the community, 'Subscriber' for generating subscription links, and 'Show' for retrieving lost images using their job ID."
+    },
+    {
+        "Title": "Using Fast and Relax Modes in Miljoney",
+        "Keywords": [
+            "Fast mode",
+            "Relax mode",
+            "image creation"
+        ],
+        "Content": "Miljoney provides two primary modes for image creation: Fast and Relax. Fast mode is designed for quick image generation, typically completing the process in about a minute. This mode is ideal for users who need rapid results. However, it comes with a time limitation based on the subscription level. For instance, a $10 subscription offers 3 hours of Fast mode, while a $60 subscription provides 30 hours. Once the allocated time is exhausted, the system automatically switches to Relax mode. Relax mode, on the other hand, allows for unlimited image creation without any time constraints, but the process is slower. This mode is useful for users who are not in a hurry and prefer to create images at a more leisurely pace. Understanding the differences between these modes and utilizing them effectively can help users manage their time and resources better while using Miljoney."
+    },
+    {
+        "Title": "Blending and Remixing Images in Miljoney",
+        "Keywords": [
+            "Blend mode",
+            "Remix mode",
+            "image editing"
+        ],
+        "Content": "Miljoney offers advanced features like Blend and Remix modes for image editing. Blend mode allows users to merge two images into a single new image. This is done by uploading two images and using the Blend command to combine their features. The result is a unique image that incorporates elements from both original images. Remix mode, on the other hand, enables users to make slight adjustments to an existing image by modifying its keywords. This mode is useful for fine-tuning images to achieve the desired look. To use Remix mode, users need to switch to this mode and select the image they want to edit. They can then adjust specific keywords to alter the image's appearance. Both Blend and Remix modes provide powerful tools for creative image manipulation, allowing users to experiment and refine their artwork in Miljoney."
+    }
+]

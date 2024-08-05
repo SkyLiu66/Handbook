@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Choosing and Securing a Unique Store Name",
+        "Keywords": [
+            "store name",
+            "uniqueness",
+            "Xiaohongshu"
+        ],
+        "Content": "Before opening a store on Xiaohongshu, it is crucial to choose and secure a unique store name. The name of your Xiaohongshu account will be the name of your store, and it can only be changed once every seven days. To ensure your desired name is available, search for it under both 'Products' and 'Users' sections. If the name is already taken or associated with an existing store, you will need to choose a different name. For example, if you want to name your store 'KK Fashion Share' and find that it is already in use, you might opt for 'KK Fashion Share House' instead. Once you have confirmed the availability of your chosen name, update your account name accordingly before proceeding to open your store. This step is essential to avoid any conflicts and ensure a smooth store setup process."
+    },
+    {
+        "Title": "Setting Up Store Logistics Information",
+        "Keywords": [
+            "logistics",
+            "shipping address",
+            "Xiaohongshu"
+        ],
+        "Content": "Setting up logistics information is a critical step in managing your Xiaohongshu store. Start by entering your shipping address in the 'Address Management' section. Initially, you can use your own address if you don't have a supplier yet. Set this address as the default shipping and return address. Once you have a supplier, update the address to reflect your supplier's shipping details. Next, create a 'Logistics Template' by naming it and entering the relevant shipping address. The logistics template itself is not as crucial as the 'Shipping Fee Template.' For the shipping fee template, specify whether you offer free shipping or charge for shipping to non-remote areas. Ensure you exclude regions like Xinjiang and Tibet if you do not ship there to avoid additional shipping costs. Regularly update your logistics information to reflect any changes in your shipping arrangements."
+    },
+    {
+        "Title": "Completing Business Information and Payment Setup",
+        "Keywords": [
+            "business information",
+            "payment setup",
+            "Xiaohongshu"
+        ],
+        "Content": "Completing your business information and payment setup is essential for the smooth operation of your Xiaohongshu store. Start by filling out the 'Business Information' section with your personal or business details. Choose 'Individual Engaged in Small-Scale Transactions' as your business type. This classification is suitable for most small sellers. Next, set up your payment methods. Initially, you may not need to pay a deposit, but note that without it, you cannot activate WeChat Pay. To activate WeChat Pay later, go to 'All Tools' in the Xiaohongshu backend, select 'Account Assets,' and follow the instructions to pay the deposit. This deposit is refundable and necessary for enabling WeChat payments. Additionally, familiarize yourself with the platform's commission structure, which typically involves a 5% fee on each transaction. This fee is deducted upfront but refunded if your monthly sales do not exceed a certain threshold. Regularly check your account for any updates or changes in the payment setup."
+    }
+]

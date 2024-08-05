@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Logistics Templates",
+        "Keywords": [
+            "logistics template",
+            "shipping",
+            "setup"
+        ],
+        "Content": "To set up logistics templates on your computer, first log in to the Xiaohongshu Merchant Edition backend. After logging in, navigate to the 'Orders' section on the left toolbar and find 'Logistics Tools.' Here, you can create a new logistics template. For example, if you are setting up a template for women's high heels, enter the relevant details and select or create a shipping address. This template will be used when listing products, ensuring that each product has the appropriate logistics settings. This step is crucial as different products may have varying shipping requirements. By setting up logistics templates, you streamline the shipping process and ensure accurate delivery information for each product."
+    },
+    {
+        "Title": "Creating Custom Shipping Fee Templates",
+        "Keywords": [
+            "shipping fee",
+            "custom template",
+            "setup"
+        ],
+        "Content": "Creating custom shipping fee templates is essential for managing different shipping costs for various products and regions. To do this, go to the 'Logistics Tools' section and create a new shipping fee template. For instance, if you are setting up a template for women's high heels, choose 'Custom Postage' and specify the shipping method. Enable the 'Non-Delivery Areas' option if certain regions require additional fees or do not receive shipments. For example, if shipping to Heilongjiang requires an additional fee, set the base shipping cost to zero and add a surcharge for that region. This ensures that customers in specific areas are charged correctly, and you can manage shipping costs effectively."
+    },
+    {
+        "Title": "Managing Regional Shipping Costs",
+        "Keywords": [
+            "regional shipping",
+            "cost management",
+            "setup"
+        ],
+        "Content": "Managing regional shipping costs involves setting up specific charges for different areas. In the shipping fee template, you can define additional costs for regions that require higher shipping fees. For example, if shipping to Liaoning incurs an extra charge, specify the base cost and additional cost per item. This ensures that customers in regions with higher shipping costs are charged appropriately. By accurately setting regional shipping costs, you can avoid undercharging or overcharging customers, leading to better customer satisfaction and streamlined logistics operations. Regularly review and update these settings to reflect any changes in shipping rates or regional policies."
+    }
+]

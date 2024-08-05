@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Creating a Server in MidJony",
+        "Keywords": [
+            "create server",
+            "MidJony",
+            "setup"
+        ],
+        "Content": "Creating a server in MidJony involves several steps that are essential for setting up your workspace for drawing and other activities. First, open the MidJony drawing software and navigate to the dialog box where you input commands. Start by typing a forward slash followed by the 'Image' command and then enter your keywords, for example, 'Elite Girl.' After sending the command, you will receive a prompt asking you to accept the terms to continue using the software. Click 'Accept' to proceed. If you encounter a message indicating that you need to recharge because the free drawing attempts have been exhausted, you will need to subscribe to a membership plan, which will be covered in the next lesson. To create a server, click on the plus sign on the left side of the screen and select 'Create My Own.' Upload an avatar for your server and give it a name. Click 'Create' to finalize the setup. Your server is now ready, and you can proceed to add the MidJony bot to your server for drawing purposes."
+    },
+    {
+        "Title": "Adding the MidJony Bot to Your Server",
+        "Keywords": [
+            "add bot",
+            "MidJony",
+            "server"
+        ],
+        "Content": "Adding the MidJony bot to your server is a crucial step for enabling drawing functionalities. Once your server is created, you need to integrate the MidJony bot to start using its features. Navigate to the small sailboat icon and click on it to find the MidJony bot. Select the bot and click 'Add to Server.' Choose the server you just created and click 'Continue.' You will then need to authorize the bot by clicking 'Authorize' and completing any necessary verification steps. Once authorized, the bot will be added to your server, allowing you to use its drawing capabilities. This integration is essential for utilizing the full range of features offered by MidJony, including automated drawing commands and other creative tools. By following these steps, you ensure that your server is fully equipped for all your drawing needs."
+    },
+    {
+        "Title": "Using Commands in MidJony",
+        "Keywords": [
+            "commands",
+            "MidJony",
+            "drawing"
+        ],
+        "Content": "Using commands in MidJony is straightforward but requires familiarity with the syntax and available options. To start drawing, open the dialog box in your server and type a forward slash followed by the 'Image' command. Enter your desired keywords to specify what you want to draw, for example, 'Elite Girl.' Send the command to initiate the drawing process. If you encounter any prompts or messages, follow the instructions to proceed. It's important to note that free drawing attempts may be limited, and you might need to subscribe to a membership plan for unlimited access. The commands allow you to customize your drawings by specifying various parameters, making it a powerful tool for creative projects. Familiarizing yourself with these commands will enable you to make the most out of MidJony's features and enhance your drawing experience."
+    }
+]

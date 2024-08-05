@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Xiaohongshu's Detection Rules",
+        "Keywords": [
+            "Xiaohongshu",
+            "detection rules",
+            "content guidelines"
+        ],
+        "Content": "Xiaohongshu has strict detection rules to ensure the quality and compliance of content on its platform. The platform monitors personal profiles, note content, private messages, and comments. It prohibits the use of certain keywords and phrases, such as WeChat IDs, QR codes, purchasing agents, and watermarks promoting Taobao stores. However, it allows the inclusion of email addresses in official profiles and the use of homophones to guide users to WeChat. Additionally, Xiaohongshu limits the number of accounts that can be logged into a single device to four. Content must not induce users to follow, like, or participate in lotteries, as these actions are considered user inducement and are strictly prohibited. The platform also places a high emphasis on content originality. Each article should be posted on only one account to avoid duplication. Sensitive words are also monitored, and content containing prohibited terms like 'e-cigarettes,' 'financial products,' and 'medical supplies' will be flagged. Users can use online tools to check for sensitive words before posting to ensure compliance."
+    },
+    {
+        "Title": "Xiaohongshu's Content Distribution Mechanism",
+        "Keywords": [
+            "content distribution",
+            "Xiaohongshu",
+            "algorithm"
+        ],
+        "Content": "Xiaohongshu's content distribution mechanism is based on feature matching, similar to platforms like Douyin and Toutiao. The process involves several steps: machine review, manual review, feature matching, and note distribution. When a new note is uploaded, it undergoes a machine review to check for sensitive words, images, and potential violations. Content flagged as potentially violating rules is marked for manual review. The platform also checks for content duplication, and notes with high duplication rates may be restricted or banned. High-quality content is given higher distribution weight, increasing its visibility. After passing the review stages, the note enters the recommendation system, where it is matched with users based on keywords, tags, and topics. The system analyzes the note's content features and matches them with user characteristics to ensure targeted distribution. The note is then placed in various sections like 'Discover,' 'Nearby,' and 'Follow' based on its relevance and quality. Understanding this mechanism helps creators optimize their content for better reach and engagement."
+    },
+    {
+        "Title": "Xiaohongshu's Search Rules and Ranking Factors",
+        "Keywords": [
+            "search rules",
+            "ranking factors",
+            "Xiaohongshu"
+        ],
+        "Content": "Xiaohongshu's search rules and ranking factors are distinct from its content distribution mechanism. For a note to be searchable, it must first be indexed by the platform. Factors influencing search ranking include keywords, account weight, likes, comments, and user behavior. Keywords are categorized into core, related, and long-tail keywords. Core keywords are simple and have high search volumes, while related keywords expand on core keywords. Long-tail keywords are more specific phrases that include core and related keywords. Account weight is determined by factors like the account's activity, engagement rates, and compliance with platform rules. Notes with higher likes, comments, and shares are ranked higher in search results. User behavior, such as regular activity and interaction with the platform, also affects ranking. Abnormal behavior, like excessive liking or commenting, can negatively impact ranking. To improve search visibility, creators should use relevant keywords, maintain regular activity, and ensure their content complies with Xiaohongshu's guidelines. By understanding and leveraging these factors, creators can enhance their content's searchability and reach."
+    }
+]

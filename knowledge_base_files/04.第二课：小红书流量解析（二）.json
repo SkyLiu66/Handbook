@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Account Weight and Basic Traffic",
+        "Keywords": [
+            "account weight",
+            "basic traffic",
+            "recommendation mechanism"
+        ],
+        "Content": "Account weight determines the basic traffic for your posts. The recommendation mechanism is divided into two aspects: note traffic and product card traffic. Note traffic is further divided into recommendation traffic and search traffic. For example, an account with a good weight might have a basic view count of 300 to 500 per post. If the post performs well, it can reach 700 to 800 views, and even higher if it performs exceptionally well. The basic traffic is determined by the account weight, while the final traffic is determined by the performance data of the post. The exposure click-through rate (CTR) determines the lower limit of traffic, while the interaction rate of the note determines the upper limit. For instance, if a post is given an initial exposure of 5,000 and 10% of viewers click on it, the post will have 500 views. The CTR and interaction rate are crucial metrics that influence the final traffic a post receives."
+    },
+    {
+        "Title": "Importance of Exposure Click-Through Rate",
+        "Keywords": [
+            "exposure CTR",
+            "traffic lower limit",
+            "engagement"
+        ],
+        "Content": "The exposure click-through rate (CTR) is a critical factor in determining the lower limit of traffic for a post. The CTR is influenced by the attractiveness of the cover image and the title. For example, a cover image featuring a visually appealing subject or an exaggerated title can significantly increase the CTR. It is recommended to spend 60-70% of your time on creating an attractive cover and 20-30% on crafting a compelling title. The remaining time should be spent on writing the note itself. A high CTR ensures that the post receives a substantial amount of initial traffic. For instance, if a post receives 5,000 exposures and has a CTR of 10%, it will get 500 views. Therefore, focusing on improving the CTR by creating engaging covers and titles is essential for maximizing the initial traffic a post receives."
+    },
+    {
+        "Title": "Interaction Rate and Traffic Upper Limit",
+        "Keywords": [
+            "interaction rate",
+            "traffic upper limit",
+            "engagement metrics"
+        ],
+        "Content": "The interaction rate of a note determines the upper limit of the traffic it can receive. Interaction rate includes metrics such as likes, comments, shares, and follows. Each type of interaction has a different weight in the algorithm. For example, a follow might add 8 points, a share 4 points, and a like or comment 1 point each. The more interactions a post receives, the higher its interaction rate, which in turn increases its visibility and potential traffic. To improve the interaction rate, it is important to encourage users to engage with the post. This can be done by creating engaging content, asking questions, or prompting users to share their thoughts in the comments. Additionally, maintaining an active and responsive comment section can further boost the interaction rate. By focusing on increasing the interaction rate, you can significantly enhance the upper limit of the traffic your post can achieve."
+    }
+]

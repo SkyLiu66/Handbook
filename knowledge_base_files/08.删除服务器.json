@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Accessing Server Settings in Midjoney",
+        "Keywords": [
+            "Midjoney",
+            "server settings",
+            "access"
+        ],
+        "Content": "To delete a server in Midjoney, you first need to access the server settings. Open the Midjoney software and locate the server you want to delete on the left side of the interface. Right-click on the server to bring up a context menu. From this menu, select 'Server Settings.' This will open a new window displaying various options and information about the server. Navigating to the server settings is the initial step in managing or deleting a server, as it provides access to all the necessary controls and information."
+    },
+    {
+        "Title": "Navigating to Server Overview",
+        "Keywords": [
+            "server overview",
+            "navigation",
+            "Midjoney"
+        ],
+        "Content": "Once you are in the server settings, the next step is to navigate to the server overview. In the server settings window, look for the 'Overview' section, which contains all the essential information and operations related to the server. Scroll to the right side of the window to find this section. The server overview includes details such as server name, status, and other critical information. It also provides access to various administrative actions, including the option to delete the server. Understanding how to navigate to the server overview is crucial for performing any server management tasks."
+    },
+    {
+        "Title": "Deleting a Server in Midjoney",
+        "Keywords": [
+            "delete server",
+            "Midjoney",
+            "steps"
+        ],
+        "Content": "To delete a server in Midjoney, follow these steps after accessing the server overview. Scroll down to the bottom of the overview section until you find the 'Delete Server' option. Click on this option, and a prompt will appear asking you to confirm the deletion by entering the server's name. Type in the exact name of the server you wish to delete and click 'Delete.' This action will permanently remove the server from your list. Ensure that you have backed up any important data before proceeding with the deletion, as this process is irreversible. Deleting a server is a straightforward task but requires careful attention to ensure that the correct server is removed."
+    }
+]
