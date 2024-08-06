@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Introduction to Image Tracing with Midioni",
+        "Keywords": [
+            "image tracing",
+            "Midioni",
+            "upload"
+        ],
+        "Content": "Image tracing, or '电图' in Chinese, involves using a base image to create a new, desired image through the Midioni drawing software. To start, open the Midioni software and upload the image you want to trace. Click on the plus button below the dialog box, then select 'Upload File' and choose your image. Once uploaded, send the image by clicking 'Send.' The software will process the image and display a larger version. This initial step is crucial as it sets the foundation for the tracing process. By uploading a clear and relevant base image, you ensure that the final traced image will closely resemble your desired outcome."
+    },
+    {
+        "Title": "Executing the Image Tracing Process",
+        "Keywords": [
+            "image tracing",
+            "process",
+            "Midioni"
+        ],
+        "Content": "After uploading your image to Midioni, the next step is to execute the tracing process. Right-click on the enlarged image and select 'Copy Image Address.' In the dialog box, type the command 'Emerging' followed by pasting the copied image address. This command instructs Midioni to use the uploaded image as the base for tracing. Additionally, provide a brief description of the desired outcome. For example, if you want the traced image to have specific features or styles, include these details in the description. Adding simple parameters can further refine the output. Once you have entered all the necessary information, click 'Send' to initiate the tracing process. Midioni will then generate a new image based on your inputs, closely resembling the original but with the desired modifications."
+    },
+    {
+        "Title": "Finalizing and Reviewing the Traced Image",
+        "Keywords": [
+            "finalizing",
+            "reviewing",
+            "traced image"
+        ],
+        "Content": "Once Midioni completes the tracing process, it will display the final traced image. Review this image to ensure it meets your expectations and closely resembles the original with the desired modifications. If the image is satisfactory, you can save or use it as needed. If adjustments are required, you can repeat the tracing process with different parameters or descriptions to achieve the desired outcome. This iterative approach allows for fine-tuning and ensures that the final image aligns with your vision. By carefully reviewing and finalizing the traced image, you can create high-quality visuals that effectively serve your purpose."
+    }
+]

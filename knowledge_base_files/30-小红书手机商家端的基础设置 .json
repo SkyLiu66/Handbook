@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Basic Operations on Mobile",
+        "Keywords": [
+            "basic operations",
+            "mobile setup",
+            "Xiaohongshu"
+        ],
+        "Content": "To set up basic operations on your mobile device, start by downloading the Xiaohongshu Merchant Edition app. This app allows you to view store information and manage customer service interactions. Begin by configuring your logistics settings. You need to set up two addresses: one for shipping and one for after-sales service. For the shipping address, select your current location and fill in the necessary details such as street and phone number. Save this as your default shipping address. Next, set up an address for Taiwan, including detailed contact information, and save it as the default after-sales address. After configuring the addresses, set up your logistics template. Choose a name for the template and select your default shipping address. Save the template. Finally, configure your shipping fee template based on your shipping policies, such as offering free shipping to non-remote areas. By following these steps, you ensure that your store's logistics are properly set up, facilitating smooth operations and customer satisfaction."
+    },
+    {
+        "Title": "Managing Account Funds and Payment Methods",
+        "Keywords": [
+            "account funds",
+            "payment methods",
+            "security deposit"
+        ],
+        "Content": "Managing your account funds and payment methods is crucial for smooth business operations. First, consider the security deposit. While it's not mandatory to pay it immediately, doing so can expedite the activation of certain features. Note that Alipay can be used without activation, but WeChat Pay requires activation. Both payment methods need to be set up on a computer, and you cannot activate them without paying the security deposit. Additionally, bind your bank account to ensure seamless transactions. Another important aspect is the 'Freight Insurance,' which also requires a security deposit for activation. This insurance covers shipping costs in case of returns or other issues. Lastly, configure your store type and business scope. This can be done on a computer or mobile device. Choose all applicable business types and fill in your address. Properly managing these financial and operational settings ensures that your store runs efficiently and is prepared for various customer interactions and transactions."
+    },
+    {
+        "Title": "Setting Up Promotions and Discounts",
+        "Keywords": [
+            "promotions",
+            "discounts",
+            "coupons"
+        ],
+        "Content": "Setting up promotions and discounts is essential for attracting customers and boosting sales. In the Xiaohongshu Merchant Edition app, navigate to the 'Marketing Center' to create discount offers and coupons. For discounts, you may need to use a computer, as some settings are not available on mobile. Typical discount rates include 7.5% or 7.8%. For coupons, you can set them up directly on your mobile device. Consider creating tiered discount coupons to encourage larger purchases. For example, offer a small discount for a minimum purchase amount and a larger discount for higher spending. Clearly communicate these promotions in your product descriptions and marketing materials to ensure customers are aware of the offers. By strategically setting up and promoting discounts and coupons, you can enhance customer engagement and drive more sales, making your store more competitive and appealing to potential buyers."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Steps to List a Product on Xiaohongshu Using a Mobile Phone",
+        "Keywords": [
+            "Product Listing",
+            "Xiaohongshu",
+            "Mobile Phone"
+        ],
+        "Content": "To list a product on Xiaohongshu using a mobile phone, follow these steps: First, open the Xiaohongshu app and navigate to the 'Publish Product' section. You will see fields for product title, main image, and other details. Find the product you want to list, for example, from Pinduoduo. Copy the product title from Pinduoduo and paste it into the title field on Xiaohongshu. Download the main image from Pinduoduo and upload it to Xiaohongshu. The app will automatically fill in some details based on the title and images. Next, set the product attributes such as material and specifications. For example, if the product has multiple colors, list each color and its corresponding image. Set the price and stock for each variant. Finally, choose the shipping template and set the shipping fee. Once all details are filled in, submit the product for review. If approved, the product will be listed immediately or stored in the warehouse for manual listing later."
+    },
+    {
+        "Title": "Setting Product Specifications and Pricing",
+        "Keywords": [
+            "Product Specifications",
+            "Pricing",
+            "Xiaohongshu"
+        ],
+        "Content": "When setting product specifications and pricing on Xiaohongshu, it is important to be detailed and accurate. Start by listing all available specifications such as color, size, and material. For example, if you are listing a product with multiple color options like pink, blue, and green, ensure each color is listed with its corresponding image. Next, set the price for each variant. If all variants have the same price, you can set a bulk price. Otherwise, set individual prices for each variant. Additionally, set the stock quantity for each variant, ensuring it does not exceed the platform's limit. Accurate specifications and pricing help customers make informed decisions and reduce the likelihood of returns or complaints."
+    },
+    {
+        "Title": "Choosing Shipping Templates and Setting Logistics",
+        "Keywords": [
+            "Shipping Templates",
+            "Logistics",
+            "Xiaohongshu"
+        ],
+        "Content": "Choosing the right shipping template and setting logistics are crucial steps in listing a product on Xiaohongshu. Start by selecting a shipping template that matches your delivery capabilities. Xiaohongshu offers default templates like 'Non-Remote Areas Free Shipping' and 'Nationwide Free Shipping.' If these do not meet your needs, you can create a custom template. Set the shipping fee based on the template you choose. Next, specify the shipping time, typically within 48 hours. If your product is a pre-sale item, set the appropriate pre-sale period. Finally, choose the warehouse location from which the product will be shipped. Accurate logistics settings ensure timely delivery and enhance customer satisfaction."
+    }
+]

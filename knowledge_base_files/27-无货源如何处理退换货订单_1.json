@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Handling Return and Refund Requests",
+        "Keywords": [
+            "return requests",
+            "refunds",
+            "customer service"
+        ],
+        "Content": "When dealing with return and refund requests, it is essential to understand the platform's policies. If a customer selects reasons such as 'dislike', 'don't want', or 'not as expected', the platform will automatically approve the return without the seller's confirmation. The customer will then see the return address, which is the default address you set initially. If your office address is set as the default return address, the customer will send the package there. Upon receiving the package, you need to decide whether to send it back to the supplier or to another customer, which incurs shipping costs and increases your expenses. To avoid this, set up multiple return addresses, especially if you consistently source from the same supplier. This way, returns can go directly to the supplier, eliminating additional shipping costs."
+    },
+    {
+        "Title": "Setting Up Multiple Return Addresses",
+        "Keywords": [
+            "multiple return addresses",
+            "logistics",
+            "cost-saving"
+        ],
+        "Content": "To set up multiple return addresses, first, contact your supplier to arrange for returns. Once the supplier agrees, they will provide you with a return address. In the Xiaohongshu seller management backend, navigate to the logistics tools and add the return address. You can add up to 200 return addresses, so managing multiple suppliers is feasible. After adding the return addresses, create a return strategy by naming it after the product for easy identification. Link the return address to the corresponding product. This setup ensures that all return requests, regardless of the reason, will be directed to the supplier, saving you from additional shipping costs. When a customer sends back a package, provide the return tracking number to the supplier or update it on the procurement platform."
+    },
+    {
+        "Title": "Processing Exchange Requests",
+        "Keywords": [
+            "exchange requests",
+            "order management",
+            "customer satisfaction"
+        ],
+        "Content": "The process for handling exchange requests is similar to returns but includes an additional step. After receiving the returned package, either you or the supplier needs to reorder the product from platforms like 1688 or Pinduoduo. Once the supplier ships the replacement item, confirm receipt in the after-sales management section and enter the new tracking number. This ensures that the customer receives the exchanged product promptly. Efficiently managing exchange requests helps maintain customer satisfaction and trust. It is crucial to communicate clearly with both the supplier and the customer throughout the process to ensure smooth transactions and avoid misunderstandings."
+    }
+]

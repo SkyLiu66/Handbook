@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Completing Store Information",
+        "Keywords": [
+            "Store Information",
+            "Account Setup",
+            "Contact Details"
+        ],
+        "Content": "After your store is approved, the first step is to complete the basic store information. This involves filling out the information form with details such as the contact person's name and phone number. This information is crucial as it allows the platform to contact you for important notifications, such as delayed shipments. Additionally, you need to specify your business type based on the products you sell. Once all the information is filled out, save the form. This step ensures that your store is properly set up and ready to operate, providing a solid foundation for your business activities."
+    },
+    {
+        "Title": "Setting Up Payment and Logistics",
+        "Keywords": [
+            "Payment Setup",
+            "Logistics",
+            "Shipping Address"
+        ],
+        "Content": "The next crucial steps involve setting up payment methods and logistics. First, enable both WeChat and Alipay payment accounts to ensure customers can complete their purchases. Without these, transactions cannot be processed. Then, navigate to the logistics tools to create shipping and return addresses. For those using multiple suppliers, set the return address to your office and the shipping address to the supplier's location. This setup helps manage returns efficiently. Additionally, create a logistics template with a name of your choice, specifying whether you offer free shipping or charge for certain regions. Adjust the shipping fees for remote areas like Guizhou and Qinghai to cover additional costs. This comprehensive setup ensures smooth payment processing and efficient logistics management."
+    },
+    {
+        "Title": "Creating and Managing Shipping Templates",
+        "Keywords": [
+            "Shipping Templates",
+            "Logistics Management",
+            "Custom Shipping Fees"
+        ],
+        "Content": "Creating shipping templates is essential for managing logistics effectively. Start by naming your template and specifying the shipping origin. If you offer free shipping, select 'Seller bears shipping costs.' For remote areas where you don't offer free shipping, enable custom shipping fees and specify the additional charges. For instance, you might add extra fees for regions like Xinjiang and Tibet. This customization ensures that you cover the higher shipping costs associated with these areas. Once the template is set up, it can be applied to your products, streamlining the shipping process. Regularly review and update these templates to reflect any changes in shipping policies or costs, ensuring efficient and cost-effective logistics management."
+    }
+]

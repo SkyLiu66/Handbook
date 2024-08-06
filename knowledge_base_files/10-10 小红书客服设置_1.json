@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Customer Service on Xiaohongshu",
+        "Keywords": [
+            "customer service",
+            "Xiaohongshu",
+            "setup"
+        ],
+        "Content": "Setting up customer service on Xiaohongshu involves configuring automated responses to handle customer inquiries efficiently. The platform offers several modules for this purpose: Welcome Messages, Keyword Responses, Product Cards, and Order Assistants. Welcome Messages greet customers when they initiate a chat, and can be customized for different scenarios like working hours or non-working hours. Keyword Responses are crucial as they automatically reply to common questions based on predefined keywords. For example, if a customer asks about shipping, the system can automatically respond with shipping details. Product Cards provide quick links to products when customers inquire about them, and Order Assistants help in sending automated reminders for pending payments. Properly setting up these features ensures that customer inquiries are handled promptly, improving customer satisfaction and reducing the need for manual responses."
+    },
+    {
+        "Title": "Importance of Keyword Responses",
+        "Keywords": [
+            "keyword responses",
+            "automation",
+            "customer inquiries"
+        ],
+        "Content": "Keyword responses are a vital component of customer service automation on Xiaohongshu. They allow the system to automatically reply to frequently asked questions, saving time and ensuring consistent communication. To set up keyword responses, you need to anticipate common customer questions and define relevant keywords. For instance, if customers often ask about shipping, you can set 'shipping' as a keyword and provide a detailed response about shipping times and costs. This feature is particularly useful for handling repetitive inquiries, such as questions about product availability, sizes, and colors. By automating these responses, you can focus on more complex customer interactions and improve overall efficiency. Additionally, keyword responses help maintain a high response rate, which is crucial for customer satisfaction and platform performance metrics."
+    },
+    {
+        "Title": "Manual Customer Service Management",
+        "Keywords": [
+            "manual management",
+            "customer service",
+            "Xiaohongshu"
+        ],
+        "Content": "While automated responses handle a significant portion of customer inquiries, manual management is still essential for more complex or unique questions. On Xiaohongshu, it's important to monitor customer service interactions regularly. The platform evaluates your response rate, particularly the three-minute response rate, which should be above 80% to maintain good performance metrics. To manage this, ensure that notifications are enabled so you can respond promptly to customer inquiries. If you receive a message outside of automated responses, reply as quickly as possible to maintain a high response rate. Additionally, always ensure that the last message in a conversation is sent by you, even if it's just a simple emoji or punctuation mark. This practice helps in maintaining a good response record and ensures that customers feel attended to."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Understanding Ranking Logic",
+        "Keywords": [
+            "ranking logic",
+            "exposure",
+            "interaction rate"
+        ],
+        "Content": "Ranking logic is essential for optimizing your ad placements and ensuring higher visibility. The ranking of your ads is determined by three main factors: CPM (Cost Per Thousand Impressions), click-through rate (CTR), and conversion rate. CPM is crucial because it measures the cost of gaining 1,000 impressions. To improve your ranking, you need to focus on both increasing your bid and enhancing your ad's performance metrics. Higher bids can directly improve your ranking, but optimizing your ad content to increase CTR and conversion rates is equally important. This involves creating compelling ad creatives and targeting the right audience. By focusing on these factors, you can ensure that your ads achieve higher rankings, leading to better visibility and more effective campaigns."
+    },
+    {
+        "Title": "Leveraging Tagging Logic",
+        "Keywords": [
+            "tagging logic",
+            "audience targeting",
+            "account tags"
+        ],
+        "Content": "Tagging logic involves using tags to optimize your ad targeting and improve performance. Both the advertising account and the target account on platforms like Xiaohongshu have tags that influence ad delivery. Older, well-established accounts with significant ad spend tend to perform better due to their accumulated tags. Therefore, it's advisable to use a single advertising account for specific campaigns to maintain tag consistency. Additionally, ensure that the tags on the target account align with the audience you want to reach. For example, if you're targeting new mothers, make sure your content is relevant to them and not shown to unrelated demographics. By leveraging tagging logic, you can enhance the precision of your ad targeting, leading to higher engagement and conversion rates."
+    },
+    {
+        "Title": "Implementing Scaling Logic",
+        "Keywords": [
+            "scaling logic",
+            "ad duplication",
+            "optimization"
+        ],
+        "Content": "Scaling logic is about expanding successful ad campaigns to maximize reach and performance. Once you identify a high-performing ad campaign, the next step is to duplicate and scale it. This involves creating multiple copies of the successful campaign and making slight adjustments to each one. These adjustments can include changing the ad creatives or targeting parameters to test different variations. Additionally, monitor the performance of these duplicated campaigns closely and continue to optimize based on the results. Scaling also involves increasing your budget for high-performing campaigns to capture more traffic. By systematically scaling your campaigns, you can significantly enhance your ad performance and achieve better results."
+    }
+]

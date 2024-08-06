@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Manual Order Placement",
+        "Keywords": [
+            "manual order",
+            "1688",
+            "Pinduoduo"
+        ],
+        "Content": "When a store receives an order, one common method to place orders is manually. First, copy the buyer's shipping information from the Xiaohongshu workbench. Then, open the procurement platform, such as 1688, and find the product link. Select the corresponding specifications based on the user's purchase and add a new shipping address by pasting the buyer's information. After making the payment, return to the Xiaohongshu order and note the procurement channel and order number in the store remarks. This helps in tracking the order's origin during the receipt process. The advantage of this method is that you can find sellers with shipping insurance, which covers return shipping costs even if you haven't activated shipping insurance. However, a downside is that if you purchase from Pinduoduo, the shipping label will indicate Pinduoduo, and from 1688, it will show 1688. Most sellers on these platforms do not offer shipping insurance. After the seller ships the product, copy the tracking number and paste it into the Xiaohongshu order, ensuring the courier company matches the seller's to avoid logistics information issues and potential complaints."
+    },
+    {
+        "Title": "Using Third-Party Order Tools",
+        "Keywords": [
+            "third-party tools",
+            "order management",
+            "automation"
+        ],
+        "Content": "Another method to handle orders is using third-party order tools. Access the Xiaohongshu merchant management backend, click on 'Services,' and open the service market to find order management tools. One commonly used tool is 'Yitao,' which requires a plugin installation. Tutorials are available for different browsers. Once the plugin is installed, you can see which orders need to be placed and shipped. Copy and paste the supplier's product link to place the order. The benefit of using this tool is that it automates the shipping process. Once the supplier ships the product, you can click 'Auto Ship,' and the order will be synchronized with the supplier's shipment, eliminating the need to manually copy and paste tracking numbers for each order. However, a drawback is that if you purchase from Pinduoduo, the buyer will receive a purchase notification from Pinduoduo, revealing the source of the order."
+    },
+    {
+        "Title": "WeChat Transactions for Orders",
+        "Keywords": [
+            "WeChat transactions",
+            "order placement",
+            "supplier communication"
+        ],
+        "Content": "The third method involves using WeChat for transactions. You can request the supplier's WeChat contact and send them the order details for shipment. The advantage of this method is that the supplier can manually create the shipping label, avoiding any indication that the order was placed on Pinduoduo. This keeps the source of the order confidential from the buyer. However, the downside is the lack of shipping insurance. Detailed instructions on how to communicate with suppliers and obtain their WeChat contact are covered in the supply chain management section. Once the supplier ships the product, they will send you the tracking number, which you can then copy and paste into the Xiaohongshu order to complete the shipping process."
+    }
+]

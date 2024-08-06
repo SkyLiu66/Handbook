@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Understanding Order Decryption on Xiaohongshu",
+        "Keywords": [
+            "Order Decryption",
+            "Xiaohongshu",
+            "Privacy"
+        ],
+        "Content": "Order decryption on Xiaohongshu involves accessing encrypted customer information to fulfill orders. Platforms encrypt customer data to protect privacy, displaying it with symbols like asterisks. However, for businesses without their own inventory, knowing customer details is essential for shipping and handling after-sales services. To decrypt an order, you can view the order details in your account. Each month, you are allocated a limited number of decryption attempts. For bulk decryption, navigate to the privacy protection section in your store settings. Here, you can see your daily decryption usage and remaining quota. If you need more, you can submit a request, explaining your need for additional decryption attempts. This process ensures that you can manage orders efficiently while adhering to privacy regulations."
+    },
+    {
+        "Title": "Applying for Decryption Quotas",
+        "Keywords": [
+            "Decryption Quotas",
+            "Application",
+            "Order Management"
+        ],
+        "Content": "To manage orders effectively, you may need to apply for additional decryption quotas. Each day, you are given a set number of decryption attempts, which may not be sufficient for high-volume sellers. To apply for more, go to the privacy protection section in your store settings. Here, you can see your current usage and remaining quota. Click on the option to apply for more decryption attempts, select a reason, and specify the number of additional attempts you need. Typically, you can apply for more every 14 days. This process helps ensure that you have enough decryption attempts to manage your orders, contact customers, and handle after-sales issues without violating privacy regulations."
+    },
+    {
+        "Title": "When Decryption is Not Necessary",
+        "Keywords": [
+            "Decryption",
+            "Order Fulfillment",
+            "Automation"
+        ],
+        "Content": "In some cases, decryption of customer information may not be necessary. If your order volume increases significantly, you can integrate directly with the supplier's order processing system. This allows customer information to be encrypted and securely transferred to the supplier, who can then handle the shipping and after-sales services. This method ensures that customer data remains protected throughout the shipping process, and you do not need to manually decrypt each order. By automating the order fulfillment process and working closely with your suppliers, you can streamline operations, reduce manual workload, and maintain compliance with privacy regulations."
+    }
+]

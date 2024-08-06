@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Introduction to Basic Video Editing with Jianying",
+        "Keywords": [
+            "Jianying",
+            "video editing",
+            "basic skills"
+        ],
+        "Content": "Jianying is a powerful yet user-friendly video editing software that allows users to create professional-quality videos with ease. To get started, you need to import your video and audio files into the software. The interface is divided into several sections: the material library on the left, the preview window in the center, the adjustment area on the right, and the timeline at the bottom. You can drag your video and audio files onto the timeline to start editing. Basic operations include cutting and splitting clips, which can be done using the 'split' tool or the shortcut key 'B'. You can also separate audio from video by right-clicking on the video clip and selecting 'separate audio'. This allows you to replace the original audio with a higher-quality recording. Once your editing is complete, you can export the video by clicking the 'export' button and choosing your desired resolution and format. Jianying's intuitive interface and powerful features make it an excellent choice for beginners and professionals alike."
+    },
+    {
+        "Title": "Advanced Features of Jianying for Enhanced Video Quality",
+        "Keywords": [
+            "advanced features",
+            "Jianying",
+            "video quality"
+        ],
+        "Content": "Jianying offers several advanced features that can significantly enhance the quality of your videos. One of the key features is the ability to adjust audio levels. By dragging the horizontal line on the audio track up or down, you can increase or decrease the volume. It's important to ensure that the audio levels are balanced, with the main audio track typically set to around 10-15 dB and background music set to -20 to -25 dB. Jianying also allows you to add text and subtitles to your videos. You can insert text by dragging the text tool onto the timeline and customizing the font, size, and color. For subtitles, Jianying offers an intelligent recognition feature that automatically generates subtitles from the audio track. This can save a lot of time, although it's recommended to review and correct any errors. Additionally, Jianying supports the use of templates and effects to add a professional touch to your videos. These features, combined with its user-friendly interface, make Jianying a powerful tool for creating high-quality videos."
+    },
+    {
+        "Title": "Utilizing Jianying's Intelligent Subtitle Recognition",
+        "Keywords": [
+            "Jianying",
+            "subtitle recognition",
+            "intelligent features"
+        ],
+        "Content": "One of Jianying's standout features is its intelligent subtitle recognition, which can automatically generate subtitles from the audio track of your video. This feature leverages cloud-based speech recognition technology to transcribe spoken words into text. To use this feature, right-click on the audio track and select 'intelligent subtitle recognition'. The software will process the audio and generate subtitles, which can then be edited for accuracy. This feature is particularly useful for creating accessible content and improving viewer engagement. For even greater accuracy, you can use the 'text matching' option, where you paste your pre-written script into the software, and it matches the script to the audio. This ensures that the subtitles are highly accurate and saves time on manual transcription. While the automatic recognition is generally reliable, it's always a good idea to review the subtitles and make any necessary corrections. By utilizing Jianying's intelligent subtitle recognition, you can enhance the accessibility and professionalism of your videos."
+    }
+]

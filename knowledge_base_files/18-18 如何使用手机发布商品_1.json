@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Manual Product Listing on Xiaohongshu",
+        "Keywords": [
+            "manual listing",
+            "Xiaohongshu",
+            "product upload"
+        ],
+        "Content": "To manually list a product on Xiaohongshu, start by accessing the Xiaohongshu merchant version, now called Xiaohongshu Qianfan. Use a demo account for practice. Navigate to the homepage and find the 'Publish Product' option. Fill in all required fields such as product title, category, main image, and details. For example, if you are listing a handbag, download the main and detail images from your source (e.g., 1688 or Pinduoduo). Copy the product title and paste it into the title field, removing any unnecessary characters. Upload the main image and select the appropriate category. Avoid using brand names unless you have the rights to do so to prevent infringement. Fill in other details like price, stock, and logistics information. If you have set up logistics templates in your store backend, they will appear automatically. Otherwise, you need to fill them in manually. Ensure you select a shipping template that covers non-remote areas to avoid high shipping costs. Finally, submit the product listing. This process is straightforward and ensures your product is correctly listed on Xiaohongshu."
+    },
+    {
+        "Title": "Batch Uploading Products Using a Computer",
+        "Keywords": [
+            "batch upload",
+            "computer",
+            "Xiaohongshu"
+        ],
+        "Content": "For stores with multiple products, manual uploading can be time-consuming. Instead, use a computer to batch upload products to Xiaohongshu. This method is efficient for stores with numerous items. First, gather all product information and images from your sources. Use tools or software that allow you to transfer products from other platforms to Xiaohongshu in bulk. These tools often have features that let you map product details from one platform to another, ensuring consistency and saving time. Follow the software's instructions to upload your product list, including titles, images, categories, prices, and stock levels. Ensure all data is accurate to avoid errors during the upload process. Batch uploading not only saves time but also helps maintain a consistent and professional appearance for your store. This method is particularly useful as your store grows and you need to manage a larger inventory efficiently."
+    },
+    {
+        "Title": "Managing Store Categories and Logistics",
+        "Keywords": [
+            "store categories",
+            "logistics",
+            "Xiaohongshu"
+        ],
+        "Content": "Proper management of store categories and logistics is crucial for smooth operations on Xiaohongshu. To add or remove product categories, access the Xiaohongshu merchant backend. Navigate to 'All Tools' and find 'Category Management' under the 'Products' section. Here, you can delete unwanted categories or add new ones by selecting the appropriate primary, secondary, and tertiary categories. For example, if you want to add 'Women's Bags,' select 'Apparel & Accessories' and then 'Handbags & Leather Goods.' Submit the changes for approval. For logistics, set up shipping templates that cover non-remote areas to avoid high shipping costs. Ensure your logistics information is accurate and up-to-date to prevent delays and customer dissatisfaction. Regularly review and update your categories and logistics settings to align with your store's offerings and customer needs. Effective management of these aspects ensures a seamless shopping experience for your customers and helps maintain your store's reputation."
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Title": "Mid Journey Model Versions",
+        "Keywords": [
+            "Mid Journey",
+            "model versions",
+            "V4",
+            "V5",
+            "V5.1"
+        ],
+        "Content": "Mid Journey offers different model versions that affect the style and quality of the generated images. The older versions, V1 to V3, are now outdated and rarely used. The default model is V4, but newer versions like V5 and V5.1 have been introduced. V5 offers more realistic and detailed images compared to V4, especially in terms of texture and fine details like fur. V5.1 adds more unique and personalized features to the images. Users can switch between these models by entering specific commands in the settings. Experimenting with different models allows users to find the style that best suits their needs."
+    },
+    {
+        "Title": "Quality and Stylization Parameters",
+        "Keywords": [
+            "image quality",
+            "stylization parameters",
+            "Mid Journey"
+        ],
+        "Content": "Mid Journey allows users to adjust the quality and stylization of the images. The quality settings range from half-quality to double-quality, affecting the richness of details rather than the pixel count. Higher quality settings result in more detailed images but take longer to generate. Stylization parameters range from low to ultra-high. Lower stylization keeps the image closer to the described keywords, while higher stylization allows for more artistic freedom, deviating more from the original description. Adjusting these parameters helps users achieve the desired balance between accuracy and artistic expression in their images."
+    },
+    {
+        "Title": "Output Modes and Remix Feature",
+        "Keywords": [
+            "output modes",
+            "remix feature",
+            "Mid Journey"
+        ],
+        "Content": "Mid Journey offers various output modes and a remix feature to enhance user experience. The public output mode makes the generated images visible to everyone in the community, while the stealth mode, available only to $60/month subscribers, keeps the images private. The fast mode allows for quick image generation but is limited to a few hours per month. The relax mode offers unlimited image generation but at a slower pace. The remix feature enables users to fine-tune specific images by modifying the keywords. This feature is useful for making minor adjustments to achieve the desired outcome without starting from scratch."
+    }
+]

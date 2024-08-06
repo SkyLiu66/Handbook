@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Using Xiaohongshu Merchant Backend for Bulk Product Upload",
+        "Keywords": [
+            "Xiaohongshu",
+            "merchant backend",
+            "bulk upload"
+        ],
+        "Content": "To efficiently manage and upload multiple products on Xiaohongshu, you can use the Xiaohongshu Merchant Backend. First, log in to the Xiaohongshu Merchant Backend using your account credentials. Navigate to the 'Service Market' from the left-hand navigation menu. Here, you will find various free plugins and software provided by Xiaohongshu. One of the most useful tools is the 'Ant Moving' plugin, which allows you to transfer product information from other platforms like 1688 or Pinduoduo to Xiaohongshu. This tool saves time by automating the process of copying images and product details. To use it, authorize the plugin to access your store, then paste the product link from another platform into the provided field. Ensure you select 'Do not use brand' if you don't have brand authorization. After the product information is fetched, review and edit the details, including pricing, before submitting the product for listing. This method significantly enhances efficiency, especially when managing a large number of products."
+    },
+    {
+        "Title": "Steps to Authorize and Use the Ant Moving Plugin",
+        "Keywords": [
+            "authorization",
+            "Ant Moving plugin",
+            "usage"
+        ],
+        "Content": "Authorizing and using the Ant Moving plugin on Xiaohongshu is straightforward. After logging into the Xiaohongshu Merchant Backend, navigate to the 'Service Market' and find the Ant Moving plugin. Click on 'Authorize' to link the plugin with your store. You may need to click 'Authorize' multiple times if prompted. Once authorized, you can start using the plugin to transfer product information. For example, if you want to sell snacks, find the product link on another platform like 1688. Copy the link and paste it into the Ant Moving plugin's input field. Ensure you select 'Do not use brand' if you don't have brand authorization. Click 'Search' to fetch the product information, then 'Copy' to add it to your task list. The plugin will process the task and notify you once the product is successfully transferred. Finally, review and edit the product details, such as pricing and logistics templates, before submitting the product for listing. This process simplifies bulk product uploads and ensures accuracy."
+    },
+    {
+        "Title": "Editing and Finalizing Product Details",
+        "Keywords": [
+            "editing",
+            "product details",
+            "finalizing"
+        ],
+        "Content": "After transferring product information using the Ant Moving plugin, it's crucial to review and edit the details before finalizing the listing. Start by clicking on 'Edit' next to the newly transferred product. Check all the information, including the product name, description, and images. Pay special attention to the brand field; if you don't have brand authorization, ensure it is set to 'Do not use brand.' Next, review the pricing information. Adjust the price to reflect your desired selling price. Also, configure the logistics and shipping templates to match your store's policies. Once all the details are verified and edited, click 'Submit' to finalize the product listing. This step ensures that all product information is accurate and compliant with Xiaohongshu's guidelines, preventing potential issues and enhancing the shopping experience for your customers."
+    }
+]

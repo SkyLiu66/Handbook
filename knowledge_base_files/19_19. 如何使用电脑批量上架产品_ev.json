@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Batch Uploading Products Using a Computer",
+        "Keywords": [
+            "batch uploading",
+            "products",
+            "computer"
+        ],
+        "Content": "Batch uploading products to your store using a computer can save a significant amount of time. First, prepare the product links, primarily from 1688, as it is a common source for dropshipping. After selecting your products, save their links. Open the 1688 website and search for the products using their images or names. Copy the product links and save them in a document. Next, log into your Xiaohongshu backend and navigate to the service market. Use a tool like 'Miaoshou' for batch uploading. Authorize the tool and paste the product links into the designated area. The tool will fetch the product details from 1688. Ensure to set the brand to 'None' if the product is unbranded. Adjust the price to 200% of the original plus an additional 5-10 yuan to cover potential discounts. Set the shipping template to 'Non-remote areas free shipping' and select your shipping address. Finally, initiate the batch upload. The tool will automatically upload the products to your store, making them available for purchase."
+    },
+    {
+        "Title": "Setting Up Product Details and Pricing",
+        "Keywords": [
+            "product details",
+            "pricing",
+            "setup"
+        ],
+        "Content": "Setting up product details and pricing is crucial for a successful store. After fetching product details from 1688, you need to configure several settings. First, ensure the brand is set to 'None' if the product is unbranded. This avoids potential legal issues with branded products. Next, adjust the product price. A common strategy is to set the price at 200% of the original cost plus an additional 5-10 yuan. This markup covers your profit margin and potential discounts, such as coupons. For example, if a product costs 40 yuan on 1688, set the price to around 100 yuan. Configure the shipping template to 'Non-remote areas free shipping' to attract more customers. Select your shipping address and ensure it is correctly set up. These steps ensure that your products are correctly priced and detailed, making them attractive to potential buyers."
+    },
+    {
+        "Title": "Using Software Tools for Efficient Product Management",
+        "Keywords": [
+            "software tools",
+            "product management",
+            "efficiency"
+        ],
+        "Content": "Using software tools can greatly enhance the efficiency of managing your store's products. Tools like 'Miaoshou' allow for batch uploading and management of products. After authorizing the tool, you can paste multiple product links, and the tool will fetch the details from 1688. This saves time compared to manual entry. Additionally, these tools often offer features like bulk price adjustments, inventory management, and automated updates. For example, you can set a default price markup and apply it to all products in one go. Some tools also provide analytics and reporting features, helping you track sales and inventory levels. By using these tools, you can streamline your product management process, reduce errors, and focus more on marketing and customer engagement. This approach ensures that your store runs smoothly and efficiently."
+    }
+]

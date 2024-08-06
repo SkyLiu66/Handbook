@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up and Listing Products on Xiaohongshu",
+        "Keywords": [
+            "Xiaohongshu",
+            "product listing",
+            "setup"
+        ],
+        "Content": "To list products on Xiaohongshu, start by accessing the backend of your Xiaohongshu store. Navigate to the 'Products' section and click on 'Product List'. If there are no products listed, use the 'Product Migration' feature. Click on 'One-Click Migration' and authorize the login. This feature supports various platforms like 1688, 17zwd, and others. For example, if you choose 1688, select a product, copy its link, and paste it into the migration tool. You can batch process multiple links at once to save time. Once the products are fetched, you can adjust basic settings like sale time, main images, detail images, and videos. Set competitive prices based on market research. Choose a shipping template that offers free shipping to non-remote areas. After configuring these settings, click 'Next' to start the migration. Monitor the progress and handle any issues that arise, such as modifying images or descriptions that violate platform policies. Once everything is set, submit the product for review. After approval, you can list the product by clicking 'List All SKUs'."
+    },
+    {
+        "Title": "Handling Product Review and Approval",
+        "Keywords": [
+            "product review",
+            "approval",
+            "modifications"
+        ],
+        "Content": "After submitting your product for review on Xiaohongshu, it may not always get approved on the first try. If your product is flagged, you will need to make necessary modifications. For instance, if the product is flagged for containing prohibited information, such as solicitation for agents, you will need to remove or alter the offending content. Navigate to the product details and make the required changes, such as deleting specific images or modifying descriptions. Once the changes are made, resubmit the product for review. The platform typically completes the review within 3 hours. During this time, you can monitor the status in the 'Product List' section. If the product passes the review, it will be listed as approved. Before finalizing the listing, you can edit the product one last time to ensure all settings are correct and to make any additional adjustments. Finally, click 'List All SKUs' to make the product available for purchase."
+    },
+    {
+        "Title": "Optimizing Product Listings for Better Sales",
+        "Keywords": [
+            "product optimization",
+            "sales",
+            "competitive pricing"
+        ],
+        "Content": "Optimizing your product listings on Xiaohongshu is crucial for better sales performance. Start by ensuring that your product images are high-quality and appealing. Remove any images that do not meet your standards or that violate platform policies. Next, focus on your product descriptions. Make them detailed and informative, highlighting the key features and benefits. Use engaging language to attract potential buyers. Pricing is another critical factor. Research similar products to set a competitive price. Avoid setting prices too high, as this can deter buyers, but also ensure that your pricing covers costs and provides a reasonable profit margin. Additionally, choose a shipping template that offers free shipping to non-remote areas, as this can be a significant selling point. Regularly review and update your listings based on customer feedback and market trends. By continuously optimizing your product listings, you can improve visibility, attract more customers, and increase sales."
+    }
+]

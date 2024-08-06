@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Basic Store Setup on Mobile",
+        "Keywords": [
+            "store setup",
+            "mobile",
+            "Xiaohongshu"
+        ],
+        "Content": "To set up your store on Xiaohongshu using a mobile device, follow these steps. First, open the Xiaohongshu backend and navigate to 'All Tools.' Scroll down to find 'Logistics Settings,' which includes address management, logistics templates, and shipping policies. Start with address management by adding the supplier's address. If you haven't finalized a supplier, you can temporarily use your home address and update it later. Set this address as the default for both shipping and returns. Next, create a logistics template by adding a new template and filling in the supplier's address. Avoid adding more than three addresses to prevent your store from being flagged as a dropshipping operation. Finally, set up the shipping template. Use the system's default settings for non-remote areas and consult your supplier for specific regions that do not qualify for free shipping. By following these steps, you can ensure your store is properly set up and ready for business."
+    },
+    {
+        "Title": "Activating WeChat Payment",
+        "Keywords": [
+            "WeChat payment",
+            "activation",
+            "Xiaohongshu"
+        ],
+        "Content": "Activating WeChat payment is crucial for your store's success on Xiaohongshu. Previously, a deposit was required to activate WeChat payment, but this is no longer necessary. To activate, go to the 'Funds Activation' section in your store's backend. Click on 'Activate WeChat Payment' and follow the instructions to upload your identification documents. Once activated, customers can use WeChat to pay for their purchases, which is a popular payment method in China. This increases the likelihood of completing sales, as customers prefer using familiar payment options. Ensure that WeChat payment is activated before launching your store to avoid losing potential customers who may leave if their preferred payment method is unavailable. This step is essential for providing a seamless shopping experience and boosting your store's credibility."
+    },
+    {
+        "Title": "Setting Up Customer Service",
+        "Keywords": [
+            "customer service",
+            "setup",
+            "Xiaohongshu"
+        ],
+        "Content": "Setting up customer service is an important aspect of managing your store on Xiaohongshu. While most settings can be configured on mobile, customer service settings require a computer. To set up, log in to your store's backend on a computer and navigate to the customer service section. Here, you can configure automated responses, manage inquiries, and set up a system for handling customer complaints. Providing efficient customer service helps in building trust and loyalty among your customers. Ensure that your responses are timely and address common questions effectively. Regularly update your customer service settings to reflect any changes in your store's policies or offerings. By setting up a robust customer service system, you can enhance customer satisfaction and improve your store's reputation."
+    }
+]

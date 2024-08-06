@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Store Deposit",
+        "Keywords": [
+            "Store Deposit",
+            "Security Deposit",
+            "Store Setup"
+        ],
+        "Content": "After opening your store on Xiaohongshu, one of the first steps is to handle the store deposit. For personal stores, the deposit is typically 1000 RMB. While it is optional to pay this deposit immediately, it is advisable to do so as it can be refunded if you decide to close your store. To pay the deposit, navigate to the 'Funds' section in the store's backend and select 'Deposit.' Paying the deposit helps in securing your store and ensures compliance with platform policies. It also provides a sense of security to customers, knowing that the store has a financial commitment to the platform."
+    },
+    {
+        "Title": "Enabling Payment Methods",
+        "Keywords": [
+            "Payment Methods",
+            "WeChat Pay",
+            "Alipay"
+        ],
+        "Content": "Setting up payment methods is crucial for smooth transactions. In the 'Funds' section, you need to enable both WeChat Pay and Alipay accounts. Note that WeChat Pay cannot be activated without paying the store deposit, but Alipay can be set up immediately. Ensure that the names on the payment accounts match the name on the Xiaohongshu store registration. This alignment is necessary for verification and smooth fund transfers. Having both payment methods enabled increases the convenience for customers and can potentially improve your store's conversion rates. Follow the platform's instructions to complete the setup process for each payment method."
+    },
+    {
+        "Title": "Configuring Logistics and Shipping Templates",
+        "Keywords": [
+            "Logistics",
+            "Shipping Templates",
+            "Return Address"
+        ],
+        "Content": "Proper logistics setup is essential for efficient order fulfillment. In the 'Logistics Tools' section, create and manage your shipping and return addresses. For shipping addresses, it is advisable to use a location in a major city to ensure faster delivery times. For return addresses, consider using a remote location like Taiwan or Hong Kong to minimize unauthorized returns. Additionally, create shipping templates that specify whether you offer free shipping or charge for certain regions. Adjust the shipping fees for remote areas to cover additional costs. This setup ensures that your logistics operations are streamlined and that you can manage returns and shipping costs effectively."
+    }
+]

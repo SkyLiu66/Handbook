@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Basic Operations in Jianying (CapCut) on PC",
+        "Keywords": [
+            "Jianying",
+            "CapCut",
+            "PC operations"
+        ],
+        "Content": "Jianying (CapCut) on PC operates similarly to its mobile version, with the main difference being the interface. To start, import your video or image files into the software. Drag the files to the timeline for editing. You can adjust the video’s speed using the progress bar. Additionally, you can add images to your video by dragging them to the desired position on the timeline. Ensure the video aspect ratio is set correctly, typically 9:16 for mobile formats. You can also zoom in on the video to fit the frame better. Each element added to the timeline can be individually adjusted for opacity and other settings. This flexibility allows for detailed customization of your video content."
+    },
+    {
+        "Title": "Advanced Editing Techniques in Jianying",
+        "Keywords": [
+            "advanced editing",
+            "Jianying",
+            "video customization"
+        ],
+        "Content": "For more advanced editing, Jianying allows you to overlay videos and adjust their transparency. This can be done by importing additional videos and placing them over the original video on the timeline. Adjust the transparency to blend the videos seamlessly. You can also separate the audio from the video and replace it with a new soundtrack. This is useful if the original audio is not suitable or if you want to add background music. Additionally, Jianying offers features like frame extraction, where you can remove specific frames to create a unique video sequence. This level of detail ensures that your video is distinct and tailored to your needs."
+    },
+    {
+        "Title": "Exporting and Finalizing Your Video",
+        "Keywords": [
+            "exporting",
+            "finalizing",
+            "video quality"
+        ],
+        "Content": "Once your editing is complete, exporting the video is straightforward. Click on the export button and choose the desired resolution and frame rate. Higher resolutions and frame rates will result in better video quality but will also increase the file size. For most purposes, 1080p at 30 frames per second is sufficient. However, if you require higher quality, you can opt for 2K or 4K resolutions. Ensure the bitrate is set high enough to maintain video quality. The final step is to select the export format, typically MP4, and choose the destination folder. If needed, you can also export just the audio. This process ensures that your video is ready for sharing or further use."
+    }
+]

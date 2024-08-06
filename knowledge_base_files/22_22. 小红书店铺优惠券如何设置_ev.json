@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "The Importance of Coupons",
+        "Keywords": [
+            "coupons",
+            "conversion",
+            "sales"
+        ],
+        "Content": "Coupons play a crucial role in boosting sales and conversions. They leverage the human tendency to seek discounts and deals, encouraging customers to make purchases. By offering coupons, you can significantly increase the likelihood of converting visitors into buyers. It is advisable to regularly set up coupons, especially during major sales events like 618, Double 11, or New Year. Even outside these events, maintaining a consistent coupon strategy can keep your store competitive. You can initially set higher prices and then offer discounts through coupons to attract customers. This approach ensures that your store remains appealing to price-sensitive shoppers while maintaining profitability."
+    },
+    {
+        "Title": "Types of Coupons and Their Setup",
+        "Keywords": [
+            "coupon types",
+            "setup",
+            "promotion"
+        ],
+        "Content": "There are various types of coupons you can set up to attract different customer segments. Common types include site-wide promotional coupons, new customer coupons, cart surprise coupons, and fan-exclusive coupons. Site-wide promotional coupons are displayed across all channels and are suitable for general promotions. New customer coupons are designed to attract first-time buyers, offering them a special discount on their initial purchase. Cart surprise coupons are triggered when a customer adds an item to their cart, providing an immediate discount to encourage checkout. Fan-exclusive coupons reward customers who follow your store, fostering loyalty. To set up these coupons, navigate to the marketing section of your store's backend, select the coupon type, and configure the details such as discount amount, validity period, and applicable products."
+    },
+    {
+        "Title": "Managing and Optimizing Coupons",
+        "Keywords": [
+            "coupon management",
+            "optimization",
+            "analytics"
+        ],
+        "Content": "Effective coupon management involves regularly reviewing and optimizing your coupon strategy. Use the coupon management tools available in your store's backend to track the performance of each coupon. You can view metrics such as redemption rates and sales generated from each coupon. If a particular coupon is not performing well, consider adjusting its terms or replacing it with a different offer. Additionally, you can pause or end coupons that are no longer needed. Utilize the marketing calendar to plan your coupon campaigns around key shopping events and holidays. By continuously monitoring and refining your coupon strategy, you can maximize its impact on your store's sales and customer engagement."
+    }
+]

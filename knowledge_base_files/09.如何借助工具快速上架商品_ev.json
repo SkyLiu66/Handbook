@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Logistics and Shipping Templates",
+        "Keywords": [
+            "logistics",
+            "shipping templates",
+            "setup"
+        ],
+        "Content": "To efficiently manage your store's logistics and shipping, you need to set up logistics and shipping templates in the Xiaohongshu merchant management backend. First, log in to the merchant management backend and navigate to the 'Orders' section, then to 'Logistics Tools.' Here, you need to create a new logistics template by specifying the shipping origin, which can be any location in Guangdong Province. After setting up the logistics template, create a shipping fee template. Name the template appropriately, for example, 'Women's Slippers,' and set the shipping fees. Ensure to exclude regions where you do not ship, such as Xinjiang and Tibet. Once both templates are set up, they will be used for all relevant products in your store."
+    },
+    {
+        "Title": "Using the Ant Move Tool for Product Listing",
+        "Keywords": [
+            "Ant Move",
+            "product listing",
+            "automation"
+        ],
+        "Content": "The Ant Move tool simplifies the process of listing products on your Xiaohongshu store. After setting up your logistics and shipping templates, navigate to the 'Service Market' in the merchant management backend and search for 'Ant Move.' Authorize the tool and configure it by selecting the appropriate logistics and shipping templates. If the templates do not appear, log out and log back in to refresh the settings. To list a product, obtain the product link from a source like Xiaoyinzi, paste it into the Ant Move tool, and click 'Search' followed by 'Copy.' The tool will process the product, and it will appear in your store's product list, ready for final edits and pricing adjustments."
+    },
+    {
+        "Title": "Editing and Finalizing Product Listings",
+        "Keywords": [
+            "product editing",
+            "finalizing listings",
+            "pricing"
+        ],
+        "Content": "Once the Ant Move tool has copied a product to your store, you need to edit and finalize the listing. Go to the 'Product List' in the Xiaohongshu backend and find the newly added product. Click 'Edit' to adjust the product details, such as price and inventory. For example, if you are selling women's slippers at 9.9 yuan, update the price accordingly. Ensure all product details are accurate and complete before submitting the listing. This step is crucial to ensure that your product information is correct and appealing to potential buyers. After making the necessary adjustments, submit the product to finalize the listing, making it available for purchase in your store."
+    }
+]

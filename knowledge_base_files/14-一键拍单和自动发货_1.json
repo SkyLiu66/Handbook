@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up One-Click Shipping",
+        "Keywords": [
+            "one-click shipping",
+            "setup",
+            "plugin"
+        ],
+        "Content": "To set up one-click shipping, follow these steps: First, install the necessary plugin. Copy the provided link and open it in your browser. This link will guide you through the installation process. Once the plugin is installed, you need to authorize your store with the software. Click on the authorization link and bind your store. After authorization, you will access the backend where you can manage orders and shipping. Next, install the plugin specific to your browser. Download the plugin, extract the files, and add it to your browser's extensions. Enable developer mode and load the unpacked extension. Once the plugin is added, you can use it to automate order processing. Ensure you configure settings like automatic buyer address synchronization and immediate purchase. This setup allows you to streamline the shipping process, making it efficient and less prone to errors."
+    },
+    {
+        "Title": "Automating Order Processing",
+        "Keywords": [
+            "order processing",
+            "automation",
+            "plugin"
+        ],
+        "Content": "Automating order processing involves several key steps. First, ensure your plugin is correctly installed and authorized with your store. This plugin will handle tasks like synchronizing buyer addresses and initiating purchases. Once the plugin is set up, you can start automating the order process. For example, when you receive an order, the plugin can automatically fill in buyer details and proceed to purchase the item from your supplier. This reduces manual input and speeds up the process. Additionally, you can configure the plugin to add specific notes, such as 'no review cards,' to each order. This ensures consistency and reduces the risk of errors. By automating these tasks, you can focus on other aspects of your business, knowing that order processing is handled efficiently."
+    },
+    {
+        "Title": "Linking Products to Suppliers",
+        "Keywords": [
+            "product linking",
+            "suppliers",
+            "efficiency"
+        ],
+        "Content": "Linking products to suppliers is a crucial step in automating your order processing. Start by copying the product link from your supplier's website, such as 1688 or Pinduoduo. Paste this link into the plugin's interface to associate it with the corresponding product in your store. This ensures that when an order is placed, the plugin knows where to source the product. Make sure to log in to your supplier accounts to enable seamless order placement. Once linked, the plugin can automatically place orders with the supplier, reducing the time and effort required to manage inventory. This setup not only streamlines the process but also minimizes the risk of errors, ensuring that your customers receive their orders promptly and accurately."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Importance of Setting Up Coupons",
+        "Keywords": [
+            "coupons",
+            "conversion rate",
+            "new store"
+        ],
+        "Content": "Setting up coupons in the Xiaohongshu merchant backend is crucial for enhancing the conversion rate, especially for new stores. Coupons give users a sense of getting a good deal, which can significantly boost their likelihood of making a purchase. By offering discounts through coupons, merchants can attract more customers and encourage them to buy more products. This strategy not only helps in increasing sales but also in building customer loyalty. Coupons can be tailored to different promotional activities, such as new customer discounts, live stream shopping discounts, and general promotional discounts. Each type of coupon serves a specific purpose and can be used to target different customer segments effectively."
+    },
+    {
+        "Title": "Steps to Set Up Coupons in Xiaohongshu Merchant Backend",
+        "Keywords": [
+            "setup",
+            "coupons",
+            "Xiaohongshu"
+        ],
+        "Content": "Setting up coupons in the Xiaohongshu merchant backend is a straightforward process. First, navigate to the merchant backend and scroll down to find 'All Tools.' Click on 'Marketing Coupons.' If you haven't set up any coupons before, the page will be empty. Click on the '+' icon to add a new coupon. You can choose between two types: store-wide coupons or specific product coupons. The setup process for both types is similar. For example, to set up a store-wide coupon, select the type of coupon (e.g., new customer coupon, live stream coupon, general promotional coupon, or threshold coupon). Enter the coupon name, discount amount, and the conditions for using the coupon (e.g., minimum purchase amount). Set the start and end dates for the coupon, the validity period, and the total number of coupons to be issued. You can also set daily limits and restrictions on how many coupons a single user can claim. Once all the details are filled in, click 'Save' to create the coupon."
+    },
+    {
+        "Title": "Types of Coupons and Their Uses",
+        "Keywords": [
+            "types of coupons",
+            "uses",
+            "promotions"
+        ],
+        "Content": "Xiaohongshu offers several types of coupons that merchants can use for different promotional activities. The main types include new customer coupons, live stream coupons, general promotional coupons, and threshold coupons. New customer coupons are designed to attract first-time buyers by offering them a discount on their initial purchase. Live stream coupons can be used during live shopping events to encourage viewers to make purchases in real-time. General promotional coupons are available in the coupon center and can be claimed by any user, providing a broad reach for the promotion. Threshold coupons require users to meet certain conditions, such as being a store follower, to claim the discount. Each type of coupon serves a specific purpose and can be strategically used to target different customer segments, thereby maximizing the effectiveness of promotional campaigns."
+    }
+]

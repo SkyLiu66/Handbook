@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Installing and Using the Zhaocaimao Tool",
+        "Keywords": [
+            "Zhaocaimao",
+            "Installation",
+            "Usage"
+        ],
+        "Content": "The Zhaocaimao tool is similar to Zhizunbao, primarily used for drop shipping and managing product shipments. To start using Zhaocaimao, you need to install the software. If you don't have it, contact the assistant to get the installation file. Once installed, open the software, which features various management tools such as merchant management, product management, drop shipping management, and after-sales management. To drop ship products, navigate through these sections to find the necessary options. The interface is user-friendly, and you can easily manage your drop shipping operations using this tool."
+    },
+    {
+        "Title": "Binding Your Store to Zhaocaimao",
+        "Keywords": [
+            "Store Binding",
+            "Authorization",
+            "Settings"
+        ],
+        "Content": "Binding your store to Zhaocaimao is a crucial step to start using the tool effectively. In the software, go to the 'Settings' section and find the 'Store Authorization' option. Follow the instructions to bind your store. This involves logging into the store through a browser, searching for 'Jintun One-Click Order' in the service market, and completing the purchase and authorization process. Enter your store's name and follow the prompts to complete the binding. The 'Settings' section also provides detailed guides on how to authorize stores from various platforms like Xiaohongshu, Taobao, Tmall, Kuaishou, WeChat, Pinduoduo, and Douyin."
+    },
+    {
+        "Title": "User Settings and Automatic Drop Shipping",
+        "Keywords": [
+            "User Settings",
+            "Automatic Drop Shipping",
+            "Procurement"
+        ],
+        "Content": "In the 'User Settings' section of Zhaocaimao, you can configure various options related to procurement and automatic drop shipping. You can specify your procurement platform, such as Pinduoduo or 1688. Enable automatic drop shipping to streamline your operations. The tool also allows you to manage virtual orders on Pinduoduo, which requires recharging points (1 point equals 1 RMB, and each order costs about 0.3 RMB). Additionally, you can set up automatic SKU association and order decryption. The settings are detailed and user-friendly, making it easy for anyone with prior e-commerce experience to understand and configure."
+    }
+]

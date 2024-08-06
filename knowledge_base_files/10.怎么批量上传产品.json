@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Challenges of Using ERP Tools for Bulk Uploads on Xiaohongshu",
+        "Keywords": [
+            "ERP tools",
+            "bulk uploads",
+            "Xiaohongshu"
+        ],
+        "Content": "Using ERP tools for bulk uploading products on Xiaohongshu can seem convenient but often leads to additional work. One major issue is that these tools might upload images with watermarks, which then need to be manually removed. This process can be time-consuming and counterproductive. Additionally, the bulk upload approach is more suited for a mass distribution model rather than a focused, high-quality product strategy. For those aiming to create viral products, it's crucial to carefully select and upload each product, ensuring that every detail is optimized. Therefore, while ERP tools can simplify the initial upload process, they often result in more work and less effective product listings in the long run."
+    },
+    {
+        "Title": "Step-by-Step Guide to Uploading Products on Xiaohongshu",
+        "Keywords": [
+            "product upload",
+            "Xiaohongshu",
+            "guide"
+        ],
+        "Content": "To upload products on Xiaohongshu, follow these steps: First, navigate to the 'Products' section and select 'Product List.' Then, choose 'Product Migration' and select a tool like 'Wuyou Product.' Authorize the tool for free use, and then proceed to 'Batch Copy Products.' Enter the product links you wish to upload, and the tool will automatically match the product details. If the automatic matching is incorrect, you can manually adjust the details. Once matched, click 'Next' and then 'Copy All.' The products will be loaded, and you can refresh the page to see them. After uploading, review each product to ensure the details, such as images and prices, are correct. Make necessary adjustments to optimize the listings."
+    },
+    {
+        "Title": "Uploading Products via Mobile on Xiaohongshu",
+        "Keywords": [
+            "mobile upload",
+            "Xiaohongshu",
+            "manual upload"
+        ],
+        "Content": "Uploading products via mobile on Xiaohongshu is a manual process and cannot be done in bulk. To upload products using your mobile device, you need to individually select and upload each product. This involves manually entering the product details and ensuring that all information is accurate. While this method is more time-consuming, it allows for greater control over the quality and presentation of each product listing. For those who prefer using a computer, the process is similar but can be more efficient due to the larger screen and easier navigation. Regardless of the device used, the key is to ensure that each product is carefully reviewed and optimized for the best results."
+    }
+]

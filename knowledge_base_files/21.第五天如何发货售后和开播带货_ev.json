@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Logistics Information",
+        "Keywords": [
+            "logistics",
+            "setup",
+            "shipping"
+        ],
+        "Content": "Setting up logistics information is crucial for ensuring smooth operations in your Xiaohongshu store. It is recommended to configure logistics settings on a computer for more comprehensive options. For instance, you may need to specify that shipments to Xinjiang and Tibet are not available, which is not a standard nationwide free shipping option and can be difficult to set up on a mobile device. Once you configure these settings on the computer, they will automatically apply to your mobile device, eliminating the need for further adjustments. This setup is independent of whether you have activated WeChat payment codes or not. Proper logistics setup ensures that your shipping policies are clear and helps avoid any potential issues with order fulfillment."
+    },
+    {
+        "Title": "Handling Account and Payment Issues",
+        "Keywords": [
+            "account issues",
+            "payment",
+            "setup"
+        ],
+        "Content": "When setting up your Xiaohongshu store, it is important to ensure that your account and payment information are correctly configured. If you encounter issues such as using a different phone number for registration and payment, you may need to adjust your settings. For example, if your store account is registered with your phone number but the payment is linked to your spouse's phone number, you can resolve this by logging out of your spouse's Alipay account on your device and logging in with your own Alipay account. This way, you can ensure that all transactions are correctly linked to your account. It is also important to note that the phone number used for store registration does not need to match the phone number used for payment. Ensuring that your account and payment information are correctly set up will help avoid any potential issues with transactions and account management."
+    },
+    {
+        "Title": "Managing Orders and Shipping",
+        "Keywords": [
+            "order management",
+            "shipping",
+            "fulfillment"
+        ],
+        "Content": "Managing orders and shipping efficiently is key to maintaining customer satisfaction and ensuring smooth operations in your Xiaohongshu store. Once an order is placed, you will receive a notification and can view the order details in the Xiaohongshu merchant version. It is important to check whether the product is listed as 'on sale' or 'in the warehouse.' If the product is in the warehouse, you need to manually list it for sale. For orders with fewer than 30 items per day, you can manually process the orders by copying the customer's address and placing the order on platforms like 1688 or other suppliers. Ensure that you select the correct product specifications and shipping address. For larger volumes, consider integrating a system that automates the shipping process. Additionally, regularly check and update your product prices to ensure they are competitive and reflect the correct margins. Proper order and shipping management will help streamline your operations and improve customer satisfaction."
+    }
+]

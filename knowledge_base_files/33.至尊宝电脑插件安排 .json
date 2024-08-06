@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Installing the Zhizunbao Plugin",
+        "Keywords": [
+            "Zhizunbao",
+            "plugin",
+            "installation"
+        ],
+        "Content": "To install the Zhizunbao plugin, follow these steps: First, search for 'Zhizunbao' using a search engine like Baidu or 360 Browser. Click on the first result, which should be the Zhizunbao e-commerce plugin with a toolbox. Once on the page, click on 'Download Plugin' to download the plugin. After downloading, locate the compressed file in your downloads folder and extract it to a folder. Next, open your browser and go to the settings menu. Find the 'Extensions' section and click on it. In the extensions menu, enable 'Developer mode' if it's not already enabled. Then, click on 'Load unpacked' and select the extracted folder. The plugin should now be installed and ready to use. If you no longer need the plugin, you can remove it from the extensions menu."
+    },
+    {
+        "Title": "Using the Zhizunbao Plugin for E-commerce",
+        "Keywords": [
+            "Zhizunbao",
+            "e-commerce",
+            "usage"
+        ],
+        "Content": "Once the Zhizunbao plugin is installed, you can use it to enhance your e-commerce activities. Open the plugin from your browser's extensions menu. The plugin provides a toolbox that allows you to scrape product information and images from various e-commerce platforms like Taobao, Pinduoduo, and Douyin. To use the plugin, navigate to the product page you want to scrape and use the plugin's features to download the product details and images. This can be particularly useful for gathering data for market research or for listing products on your own e-commerce store. The plugin simplifies the process of collecting and organizing product information, saving you time and effort."
+    },
+    {
+        "Title": "Troubleshooting and Tips for Zhizunbao Plugin",
+        "Keywords": [
+            "Zhizunbao",
+            "troubleshooting",
+            "tips"
+        ],
+        "Content": "If you encounter issues while using the Zhizunbao plugin, here are some troubleshooting tips: Ensure that you have followed the installation steps correctly, including enabling 'Developer mode' and loading the unpacked extension. If the plugin is not functioning, try restarting your browser or reinstalling the plugin. Additionally, make sure your browser is up to date, as outdated versions may not support the plugin. If the plugin still doesn't work, check for any conflicting extensions that might be interfering and disable them temporarily. For detailed instructions, refer to the plugin's official documentation or support resources. Regularly updating the plugin can also help resolve any bugs or compatibility issues."
+    }
+]

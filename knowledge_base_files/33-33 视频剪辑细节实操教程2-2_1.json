@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Video Editing Techniques",
+        "Keywords": [
+            "video editing",
+            "mirror effect",
+            "rotation"
+        ],
+        "Content": "When editing a video, it's essential to enhance each clip to make it visually appealing. Start by selecting the first segment and use the editing tools to apply effects such as mirroring, rotating, or zooming in. If the mirrored effect doesn't look good, avoid using it. Instead, you can enlarge the video slightly to change its original frame. For rotation, a slight tilt of one or two degrees can make a difference. Each clip should be adjusted individually, either by enlarging and rotating or by applying a mirror effect. This process ensures that the video looks polished and professional. Remember, if your clip contains text, ensure that mirroring doesn't make it unreadable. If it does, either crop the text out or avoid mirroring. Consistent application of these techniques across all clips will result in a cohesive and visually engaging video."
+    },
+    {
+        "Title": "Color Adjustment and Effects",
+        "Keywords": [
+            "color adjustment",
+            "contrast",
+            "sharpening"
+        ],
+        "Content": "Color adjustment is a crucial step in video editing to enhance the visual appeal of your content. Start by adjusting the contrast slightly, usually by three to five points, to make the colors more vibrant. Saturation can also be increased by one to three points to enhance the overall color intensity. The most important adjustment is sharpening, which should be set between twenty to thirty points to make the details stand out. Additionally, adding grain can give the video a textured look, which should also be set between twenty to thirty points. While other adjustments like color temperature and tint can be made, they are not as critical. If you choose to use filters, apply them sparingly to avoid overpowering the video. A subtle filter like 'Dracula' at around ten percent can add a professional touch without being too noticeable. These adjustments should be applied uniformly across the entire video to maintain consistency."
+    },
+    {
+        "Title": "Adding Transitions and Overlays",
+        "Keywords": [
+            "transitions",
+            "overlays",
+            "keyframes"
+        ],
+        "Content": "Transitions and overlays are essential for creating a seamless and engaging video. For transitions, use simple effects like flash black or flash white, set to around 0.2 seconds for short clips. This ensures that the transition is smooth and doesn't distract from the content. If your clips are longer, you can extend the transition duration slightly. Overlays, such as stickers or text, should be added to enhance the video. Place stickers in the four corners of the frame and reduce their size to make them almost invisible. For text overlays, use keyframes to animate the text, making it move slightly to keep the viewer's attention. Ensure that the text is set to a low opacity, around one to two percent, so it doesn't dominate the screen. These elements, when used correctly, can significantly improve the viewer's experience and make your video more dynamic and professional."
+    }
+]

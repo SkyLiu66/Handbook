@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Manual Product Listing Using a Computer",
+        "Keywords": [
+            "manual listing",
+            "computer",
+            "product listing"
+        ],
+        "Content": "To manually list a product using a computer, you need to prepare all necessary materials beforehand. This includes saving the product images, main images, detailed pages, and attributes (SKU). Start by using a browser extension like FATKUN to download all required images from the source website. Install the extension by enabling developer mode in your browser and adding the extension. Once installed, use it to download images in bulk. After downloading, organize the images into categories such as main images, detailed images, and SKU images. Next, log into the Xiaohongshu backend, navigate to the 'Publish Product' section, and start filling in the product details. Ensure you modify the product title slightly to avoid duplication issues. Fill in all required fields, including product attributes like style, length, and material. For SKU, specify different variations like color and size, and set appropriate prices. Upload the images and ensure they are free from any third-party logos or watermarks to avoid infringement issues. Finally, set the logistics template, choose whether the product is pre-sale or not, and submit the listing for review. Once approved, your product will be listed on Xiaohongshu."
+    },
+    {
+        "Title": "Using Browser Extensions for Image Download",
+        "Keywords": [
+            "browser extensions",
+            "image download",
+            "FATKUN"
+        ],
+        "Content": "Using browser extensions like FATKUN can significantly streamline the process of downloading product images for manual listing. First, install the extension by enabling developer mode in your browser and adding the extension. Once installed, navigate to the product page from which you want to download images. Use the extension to download all images in bulk, including main images, detailed images, and SKU images. Organize these images into folders for easy access later. This method saves time compared to manually downloading each image. Additionally, ensure that the images are clear and free from any third-party logos or watermarks to avoid potential infringement issues. Using a browser extension like FATKUN makes the process of gathering necessary images efficient and straightforward, allowing you to focus on other aspects of product listing."
+    },
+    {
+        "Title": "Setting Up Product Details and Logistics",
+        "Keywords": [
+            "product details",
+            "logistics",
+            "Xiaohongshu"
+        ],
+        "Content": "Setting up product details and logistics is a crucial step in the manual product listing process. After gathering all necessary images and information, log into the Xiaohongshu backend and navigate to the 'Publish Product' section. Fill in the product title, ensuring it is unique to avoid duplication issues. Next, provide detailed product attributes such as style, length, and material. For SKU, specify different variations like color and size, and set appropriate prices. Upload the images, ensuring they are free from any third-party logos or watermarks. Set the logistics template by specifying the shipping method and address. It's advisable to use a centralized shipping address to avoid issues with platform regulations. Choose whether the product is pre-sale or not, and set the shipping time, typically within 48 hours. Finally, submit the listing for review. Once approved, your product will be listed on Xiaohongshu. Properly setting up product details and logistics ensures a smooth listing process and helps avoid potential issues with platform regulations."
+    }
+]

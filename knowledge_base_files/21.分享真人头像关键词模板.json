@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Engaging with Audience During Live Streams",
+        "Keywords": [
+            "live streams",
+            "audience engagement",
+            "interaction"
+        ],
+        "Content": "Engaging with your audience during live streams is crucial for maintaining their interest and ensuring a successful session. Start by acknowledging the presence of your viewers as they join the stream. Use interactive prompts, such as asking them to type '1' if they can hear you, to ensure they are actively participating. This not only confirms that your audio is working but also makes viewers feel involved. Throughout the stream, encourage viewers to ask questions and provide feedback. Addressing viewers by name when responding to their comments can create a more personal connection. Additionally, use visual aids, such as sharing your screen or showing examples, to keep the content dynamic and engaging. Regularly check the chat to ensure you are not missing any important questions or comments. By actively engaging with your audience, you can create a more interactive and enjoyable live stream experience."
+    },
+    {
+        "Title": "Importance of Submitting Assignments",
+        "Keywords": [
+            "assignments",
+            "submission",
+            "feedback"
+        ],
+        "Content": "Submitting assignments on time is essential for tracking your progress and receiving valuable feedback. In an educational setting, assignments allow instructors to assess your understanding of the material and provide constructive criticism. This feedback is crucial for identifying areas where you may need improvement and for reinforcing concepts you have mastered. To ensure you are submitting high-quality work, start by thoroughly understanding the assignment requirements. Plan your work in advance and allocate sufficient time to complete it. Once you have finished, review your work for any errors or areas that could be improved. Submitting assignments on time also demonstrates your commitment and responsibility, which can positively impact your overall performance. Remember, the goal of assignments is not just to complete them but to learn and grow from the experience."
+    },
+    {
+        "Title": "Using MidJourney and Niji for Realistic Portraits",
+        "Keywords": [
+            "MidJourney",
+            "Niji",
+            "realistic portraits"
+        ],
+        "Content": "MidJourney and Niji are powerful tools for creating realistic portraits. To get started, ensure you have set up your own server and added the necessary bots. For realistic portraits, it is recommended to use Niji, as it offers more detailed and accurate results. Begin by uploading a reference image and using the 'Image' command to generate a portrait. Adjust the settings, such as the aspect ratio and IW value, to fine-tune the output. The IW value, which ranges from 0.5 to 2, determines how closely the generated image resembles the reference. A higher value results in a more accurate likeness. Additionally, you can use the 'remix' mode to make specific adjustments, such as changing the background or modifying facial features. By experimenting with different settings and commands, you can create highly realistic and personalized portraits."
+    }
+]

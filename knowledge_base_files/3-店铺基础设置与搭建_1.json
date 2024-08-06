@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Shipping and Return Addresses",
+        "Keywords": [
+            "shipping address",
+            "return address",
+            "setup"
+        ],
+        "Content": "After opening your store, it is crucial to set up your shipping and return addresses. This can be done by navigating to the 'Transaction' section and selecting 'Logistics Tools.' Here, you can create multiple addresses for shipping and returns. For shipping addresses, you can use your own address or any other address, especially if you are dropshipping. The return address setup is more critical, particularly if you are dealing with multiple suppliers. You can create a strategy for multi-address returns, allowing you to set specific return addresses for different products. For example, if you are selling earrings from different suppliers, you can set unique return addresses for each supplier. This ensures that returns are sent directly to the respective suppliers, simplifying the return process and avoiding the hassle of handling returns yourself. Properly setting up these addresses will streamline your logistics and improve customer satisfaction."
+    },
+    {
+        "Title": "Utilizing Shipping Templates and Service Labels",
+        "Keywords": [
+            "shipping templates",
+            "service labels",
+            "logistics"
+        ],
+        "Content": "To optimize your store's logistics, it is essential to use shipping templates and service labels. Start by setting up a shipping template that offers free shipping to non-remote areas. This can be done by editing the template to exclude remote areas like Xinjiang and Tibet, where shipping costs are significantly higher. By doing so, you ensure that your shipping costs do not exceed your product's profit margin. Additionally, consider using service labels such as 'Freight Insurance,' 'Rapid Refund,' and 'Deposit Service.' These labels can enhance your store's visibility and credibility. 'Freight Insurance' covers the return shipping cost for customers, reducing disputes. 'Rapid Refund' allows quick refunds for orders under a certain amount if they are canceled before shipping. 'Deposit Service' involves paying a deposit to the platform, which can increase your store's traffic and conversion rates. Implementing these templates and labels will improve your store's logistics efficiency and customer trust."
+    },
+    {
+        "Title": "Configuring Payment and Sub-Accounts",
+        "Keywords": [
+            "payment setup",
+            "sub-accounts",
+            "configuration"
+        ],
+        "Content": "Configuring your store's payment and sub-accounts is vital for smooth operations. First, set up your payment accounts, including bank cards, WeChat, and Alipay. These payment methods ensure that customers have multiple options for transactions, and you can easily withdraw your earnings. After registering your store, make sure to activate these payment methods to avoid any issues with order processing and withdrawals. Next, configure sub-accounts if your store is managed by multiple people. This can be done in the 'Store Management' section under 'Sub-Account Settings.' Sub-accounts allow you to assign specific roles, such as customer service, operations, or finance, to different team members. Each sub-account can have limited access based on their responsibilities, ensuring that sensitive information is protected. For example, a customer service sub-account can only handle customer inquiries without accessing sales data. Properly setting up payment and sub-accounts will streamline your store's management and enhance security."
+    }
+]

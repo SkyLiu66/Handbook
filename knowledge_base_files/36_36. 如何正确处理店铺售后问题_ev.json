@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Handling Unshipped Orders with Refund Requests",
+        "Keywords": [
+            "Unshipped Orders",
+            "Refund Requests",
+            "Order Management"
+        ],
+        "Content": "Handling unshipped orders with refund requests involves two main scenarios. First, if the order information has not been sent to the supplier, simply agree to the refund request in your order management system. This will remove the order from the list of pending shipments. Second, if the order information has already been sent to the supplier, you need to communicate with them to cancel the shipment. If the supplier has not yet packed the order, they can exclude it from the shipment. If the order is already packed but not shipped, inform the supplier to hold the shipment and process the refund. Effective communication with the supplier is crucial in these situations to ensure smooth handling of refund requests for unshipped orders."
+    },
+    {
+        "Title": "Managing Shipped Orders with Refund Requests",
+        "Keywords": [
+            "Shipped Orders",
+            "Refund Requests",
+            "Logistics"
+        ],
+        "Content": "Managing shipped orders with refund requests requires a different approach. If the order is still in transit and has not yet reached the delivery stage, you can refuse the refund request and instruct the customer to reject the package upon delivery. Once the package is returned, the customer can resubmit the refund request. If the order is already out for delivery, contact the courier to stop the delivery and return the package. After the package is returned, process the refund request. It is important to keep track of the order and shipment details to ensure accurate handling of refund requests for shipped orders. This process helps in minimizing losses and maintaining customer satisfaction."
+    },
+    {
+        "Title": "Handling Returns, Refunds, and Exchanges",
+        "Keywords": [
+            "Returns",
+            "Refunds",
+            "Exchanges"
+        ],
+        "Content": "Handling returns, refunds, and exchanges involves several steps. For returns and refunds, if it is the first time dealing with a particular product, request the return address from the supplier or use the address provided in the 1688 backend. Add this address to your logistics settings as the default return address for the product. For subsequent returns, simply agree to the refund request and process the return. For exchanges, it is often more efficient to ask the customer to return the product for a refund and place a new order instead of processing an exchange. This reduces the complexity and time involved in handling exchanges. Clear communication with the customer and supplier is essential to ensure smooth processing of returns, refunds, and exchanges."
+    }
+]

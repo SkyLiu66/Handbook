@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Copying Keywords from Others",
+        "Keywords": [
+            "copying keywords",
+            "Metagoni",
+            "community"
+        ],
+        "Content": "One effective method to use keywords in Metagoni is by copying them from others. This can be done by exploring the Metagoni community. First, access the Metagoni website and log in. Navigate to the community section where popular and trending artworks are displayed. Find an artwork that matches the style you are interested in and click on the three-dot button to copy the keywords used for that artwork. These keywords include all the necessary parameters and descriptions. Once copied, return to the Metagoni software, use the 'Image' command, and paste the copied keywords. This will allow you to create a new artwork based on the same style and parameters. This method is particularly useful for beginners who are still learning how to effectively use keywords. By studying and using keywords from successful artworks, you can gain insights into what works well and gradually develop your own keyword strategies."
+    },
+    {
+        "Title": "Reverse Searching Keywords from Images",
+        "Keywords": [
+            "reverse search",
+            "keywords",
+            "Metagoni"
+        ],
+        "Content": "Another method to use keywords in Metagoni is by reverse searching them from images. This is useful when you come across an image with a style you like and want to create something similar. To do this, upload the image to Metagoni and use the 'describer' command. The software will analyze the image and generate a set of keywords that describe its style and parameters. Typically, four sets of keywords are provided. Choose the set that best matches your desired style and use it to create a new artwork. This method allows you to replicate the style of any image you find appealing, whether it's from social media, websites, or other sources. By reverse searching keywords, you can easily experiment with different styles and techniques, enhancing your creative process and expanding your artistic repertoire."
+    },
+    {
+        "Title": "Writing Your Own Keywords",
+        "Keywords": [
+            "writing keywords",
+            "Metagoni",
+            "custom keywords"
+        ],
+        "Content": "The third method for using keywords in Metagoni is writing your own. This approach gives you complete control over the description and style of your artwork. A complete set of keywords typically includes three parts: the main subject description, the detailed style of the image, and the basic parameters. Start by describing the main subject, including who or what it is, where it is, when it is happening, and what it is doing. For example, 'a cute little girl exploring a forest at night.' Next, add detailed style keywords such as '3D art,' 'Pixar style,' or 'clay texture' to define the visual appearance. Finally, include basic parameters like lighting, camera angle, and image ratio. For instance, 'cinematic lighting,' 'depth of field,' and '16:9 ratio.' By combining these elements, you can create a comprehensive set of keywords that accurately describe your vision. This method requires more effort and creativity but allows for highly customized and unique artworks. Practice and experimentation will help you refine your keyword writing skills and achieve the desired results."
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Steps to Process Orders and Ship Products",
+        "Keywords": [
+            "order processing",
+            "shipping",
+            "steps"
+        ],
+        "Content": "Processing orders and shipping products involves a series of straightforward steps. First, open the Xiaohongshu (Little Red Book) app and navigate to the 'Pending Shipment' section in the backend. Click on 'Pending Shipment' to view the customer's address. Next to the address, there is an eye icon; click on it to reveal the full address. Copy this address and go to 1688.com. In 1688, find the product you need to ship by checking your saved items or searching for the product. Match the product details with the customer's order. Once confirmed, create a new address in 1688 by pasting the copied address. Ensure the details are correct, including the customer's name. After verifying the information, proceed to payment. Once the payment is made, the supplier will typically ship the product within 48 hours. After the product is shipped, go to the 'Shipped' section in 1688 to find the tracking number and courier company. Copy the tracking number and go back to Xiaohongshu. Open the order details and click 'Ship Order.' Paste the tracking number and select the courier company. Confirm the shipment to complete the process."
+    },
+    {
+        "Title": "Managing Daily Shipment Limits",
+        "Keywords": [
+            "shipment limits",
+            "daily management",
+            "order processing"
+        ],
+        "Content": "Managing daily shipment limits is crucial for efficient order processing. On Xiaohongshu, there is a limit of 20 shipments per day that can be processed using the eye icon to view customer addresses. If you have more than 20 orders to ship in a day, you will need to find alternative methods or seek assistance. One way to manage this is by prioritizing orders based on urgency or shipping date. Ensure that you keep track of the number of shipments processed each day to avoid exceeding the limit. If you consistently have more than 20 orders per day, consider reaching out for support or exploring automated solutions to streamline the process. Efficiently managing your daily shipment limits ensures that all orders are processed in a timely manner, maintaining customer satisfaction and operational efficiency."
+    },
+    {
+        "Title": "Using 1688 for Order Fulfillment",
+        "Keywords": [
+            "1688",
+            "order fulfillment",
+            "e-commerce"
+        ],
+        "Content": "Using 1688 for order fulfillment can streamline your e-commerce operations. 1688 is a popular platform for sourcing products at wholesale prices. To use 1688 for fulfilling orders, first, ensure you have an account and are familiar with the platform's interface. When you receive an order, search for the product on 1688 or find it in your saved items. Verify that the product details match the customer's order. Copy the customer's address from Xiaohongshu and create a new address in 1688. Double-check the address details to ensure accuracy. Proceed with the payment, and the supplier will typically ship the product within 48 hours. Once shipped, obtain the tracking number from 1688 and update the order status in Xiaohongshu by pasting the tracking number and selecting the courier company. This process ensures that your orders are fulfilled efficiently and accurately, leveraging 1688's extensive product catalog and competitive pricing."
+    }
+]

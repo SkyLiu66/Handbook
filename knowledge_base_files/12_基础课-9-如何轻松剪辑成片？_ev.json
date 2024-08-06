@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Video Editing Basics",
+        "Keywords": [
+            "video editing",
+            "adjustments",
+            "brightness"
+        ],
+        "Content": "The first step in video editing is to import the video into your editing software. Once imported, adjust the volume and speed according to your preference. If the video appears dark, use the adjustment tools to increase the brightness. Additionally, you can use the sharpening tool to enhance the clarity of the video, but keep the sharpening level below 30 to avoid over-processing. These basic adjustments help in improving the overall quality of the video, making it more visually appealing and easier to watch."
+    },
+    {
+        "Title": "Subtitle and Text Customization",
+        "Keywords": [
+            "subtitles",
+            "text customization",
+            "templates"
+        ],
+        "Content": "After adjusting the basic settings, the next step is to add and customize subtitles. Use the auto-subtitle feature to generate subtitles and then manually edit them to remove filler words and mistakes. For segments without subtitles, split and delete those parts of the video. Customize the subtitle text by adjusting its size, color, and style to enhance the video's appeal. You can also use text templates for key phrases and add animations to make the text more engaging. These customizations not only improve readability but also add a layer of professionalism to your video."
+    },
+    {
+        "Title": "Adding Effects and Finalizing",
+        "Keywords": [
+            "effects",
+            "sound effects",
+            "export"
+        ],
+        "Content": "To make your video more engaging, add various effects and sound enhancements. You can include animations for subtitles and add sound effects to create the desired atmosphere. Adjust the timing of these effects to ensure they align well with the video content. Additionally, add background music, keeping its volume below 30 to ensure it doesn't overpower the voiceover. Once all adjustments and additions are made, export the video in 1080p resolution for the best quality. These final touches help in creating a polished and professional video that is ready for sharing."
+    }
+]

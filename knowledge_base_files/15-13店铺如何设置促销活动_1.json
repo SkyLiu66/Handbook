@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Setting Up Single Product Promotions",
+        "Keywords": [
+            "single product",
+            "promotion",
+            "discount"
+        ],
+        "Content": "To set up a single product promotion, first, access the management backend of your store. Navigate to the 'Marketing' section and select 'Product Promotion.' Choose 'Single Product Promotion' and create a new promotion. Name the promotion, for example, 'Discount on Purchase,' and set the activity period. Select the specific product you want to promote and complete the setup. This type of promotion is straightforward and effective for highlighting individual products and attracting customer attention. Ensure the discount is appealing enough to encourage purchases but still maintains your profit margins."
+    },
+    {
+        "Title": "Setting Up Multi-Product Promotions",
+        "Keywords": [
+            "multi-product",
+            "promotion",
+            "discount"
+        ],
+        "Content": "For multi-product promotions, go to the 'Marketing' section and select 'Multi-Product Promotion.' You can choose from options like 'Discount on Total Amount,' 'Gift with Purchase,' or 'Discount on Multiple Items.' For example, you can set a discount such as 'Spend $100, Get $10 Off' or 'Buy 2 Items, Get 10% Off.' Name the promotion and set the activity period. You can apply the promotion to specific products or all products in your store. This type of promotion encourages customers to buy more items, increasing your overall sales. Ensure the discount structure is clear and attractive to maximize its effectiveness."
+    },
+    {
+        "Title": "Using Mobile App for Promotions",
+        "Keywords": [
+            "mobile app",
+            "promotion",
+            "discount"
+        ],
+        "Content": "Using the mobile app to set up promotions is convenient and efficient. Open the Xiaohongshu app and navigate to 'All Tools' under the 'Publish Product' section. Select 'Marketing' and then 'Coupons.' Click the '+' button to create a new coupon. Set the name, discount amount, and applicable conditions. You can choose between 'Storewide' or 'Specific Product' coupons. After setting up, you can monitor the promotion's progress and make adjustments as needed. Always test the promotion by making a purchase to ensure it works correctly and does not result in a loss. This method is user-friendly and allows for quick adjustments on the go."
+    }
+]

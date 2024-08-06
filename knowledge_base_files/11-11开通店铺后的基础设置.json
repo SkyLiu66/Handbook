@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Basic Store Setup on Xiaohongshu",
+        "Keywords": [
+            "store setup",
+            "Xiaohongshu",
+            "basic settings"
+        ],
+        "Content": "After opening your store on Xiaohongshu, the first step is to download the Xiaohongshu Merchant version. Once downloaded, follow these steps to set up your store: First, fill in the 'Information Disclosure' section with accurate details such as your name and phone number. Select 'Personal Engaged in Small Transactions' as your business type and save the information. Second, understand that the deposit is optional at this stage. You can find the deposit section under 'Funds' in the merchant backend. Third, activate your payment methods by linking your bank account and Alipay. Ensure that the store operator's information matches the payment recipient's details. Fourth, consider whether to activate 'Freight Insurance' based on your product category. For high-return items like clothing, it is advisable to activate this feature to enhance customer trust and reduce disputes. Fifth, set up your shipping and return addresses under 'Order' and 'Logistics Tools.' Ensure you do not exceed five addresses to avoid scrutiny. Finally, configure your logistics and shipping templates to manage shipping costs effectively, especially for remote areas. By following these steps, you can ensure your store is well-prepared for operations on Xiaohongshu."
+    },
+    {
+        "Title": "Activating Payment Methods",
+        "Keywords": [
+            "payment methods",
+            "bank account",
+            "Alipay"
+        ],
+        "Content": "Activating payment methods is a crucial step in setting up your Xiaohongshu store. To begin, navigate to the 'Funds' section in the Xiaohongshu Merchant backend. Here, you will find options to link your bank account and Alipay. Click on 'Bank Account Management' and enter your name, bank account number, and other required details. Ensure that the information matches the store operator's details to avoid any discrepancies. Once the bank account is linked, proceed to activate Alipay by clicking on 'Activate Now' and entering the necessary information. It is important to note that the store operator's identification details must match the payment recipient's details. This ensures that all funds are correctly transferred to the designated account. If you wish to activate WeChat Pay, you will need to pay the deposit first. By setting up these payment methods, you enable customers to make purchases through various channels, thereby increasing the convenience and accessibility of your store."
+    },
+    {
+        "Title": "Setting Up Logistics and Shipping Templates",
+        "Keywords": [
+            "logistics",
+            "shipping templates",
+            "Xiaohongshu"
+        ],
+        "Content": "Setting up logistics and shipping templates is essential for managing shipping costs and ensuring smooth order fulfillment on Xiaohongshu. Start by navigating to the 'Order' section in the Xiaohongshu Merchant backend and selecting 'Logistics Tools.' Here, you will find options to manage your shipping and return addresses. It is advisable to keep the number of addresses to a minimum (preferably not exceeding five) to avoid scrutiny. Next, configure your logistics templates by clicking on 'Logistics Templates' and entering the necessary details. This includes specifying the shipping costs for different regions and setting up any exclusions for remote areas. Additionally, set up your shipping templates by clicking on 'Shipping Templates' and selecting 'Add New Template.' Choose 'Seller Bears Shipping Costs' and specify the regions where you do not offer free shipping. You can obtain a list of remote areas from your supplier to ensure accuracy. By setting up these templates, you can effectively manage shipping costs, enhance customer satisfaction, and reduce the likelihood of disputes related to shipping fees."
+    }
+]

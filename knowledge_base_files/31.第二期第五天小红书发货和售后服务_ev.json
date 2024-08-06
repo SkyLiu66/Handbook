@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Understanding Xiaohongshu's CES Scoring Mechanism",
+        "Keywords": [
+            "CES scoring",
+            "Xiaohongshu",
+            "engagement"
+        ],
+        "Content": "Xiaohongshu uses a CES (Content Engagement Score) mechanism to determine the visibility and reach of posts. This scoring system evaluates user interactions such as likes, saves, comments, shares, and follows. Each type of interaction has a different weight: likes and saves are worth one point each, comments and shares are worth four points each, and follows are worth eight points. When a post includes a product link, an additional metric called 'product click-through rate' is added to the scoring system. This makes it more challenging to achieve high scores, as the post must now also perform well in terms of product engagement. To optimize your posts, focus on creating high-quality content that encourages user interaction. This will help improve your CES score and increase the likelihood of your post being promoted by the platform."
+    },
+    {
+        "Title": "Strategies for Effective Comment Section Management",
+        "Keywords": [
+            "comment management",
+            "engagement",
+            "Xiaohongshu"
+        ],
+        "Content": "Managing the comment section effectively is crucial for boosting engagement and conversions on Xiaohongshu. After posting, monitor the comments and interact with users to foster a sense of community and encourage further interaction. If your post has over 300 views or has generated sales, share it in relevant groups and ask for support in the form of comments and likes. This mutual support can help increase the visibility of your post. Additionally, use the comment section to address any questions or concerns from potential buyers, which can help convert interest into sales. By actively managing your comment section, you can enhance user engagement and improve the overall performance of your posts."
+    },
+    {
+        "Title": "Handling Orders and Customer Service on Xiaohongshu",
+        "Keywords": [
+            "order handling",
+            "customer service",
+            "Xiaohongshu"
+        ],
+        "Content": "Efficient order handling and customer service are essential for maintaining a good reputation on Xiaohongshu. After receiving an order, you can either manually place the order on a wholesale platform like 1688 or use an automated system if you have more than 30 orders. Ensure that you update the shipping information promptly to keep customers informed. For customer service, use the Xiaohongshu Merchant App to manage inquiries and set up automated responses for common questions. Maintain a high response rate to avoid being switched to the platform's paid customer service. Address any issues or complaints promptly and professionally to prevent negative reviews, which can impact your store's performance. By providing excellent customer service, you can build trust and encourage repeat business."
+    }
+]

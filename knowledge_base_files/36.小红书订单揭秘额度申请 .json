@@ -1,0 +1,29 @@
+[
+    {
+        "Title": "Understanding Xiaohongshu Order Decryption Quotas",
+        "Keywords": [
+            "Xiaohongshu",
+            "Order Decryption",
+            "Quotas"
+        ],
+        "Content": "On Xiaohongshu, non-member merchants typically cannot access detailed order information unless they use specific software. However, there are ways to decrypt order information and view customer details. Each day, merchants have a quota of 80 orders that they can decrypt. By accessing the quota section, merchants can see the remaining quota for the day. To decrypt an order, navigate to the order details and click on the small eye icon to reveal the customer's phone number, name, and shipping address. The quota system is tiered based on the number of orders processed in the past seven days. For example, if you process 0-200 orders, you can decrypt 80 orders per day. For 200-500 orders, you can decrypt 200 orders per day, and for 500-1000 orders, you can decrypt 400 orders per day. This system allows merchants to manage their order decryption needs effectively."
+    },
+    {
+        "Title": "Applying for Order Decryption Quotas",
+        "Keywords": [
+            "Quota Application",
+            "Order Decryption",
+            "Xiaohongshu"
+        ],
+        "Content": "To apply for order decryption quotas on Xiaohongshu, follow a straightforward process. First, access the quota section to check your daily limit. If you need to decrypt more orders, you can apply for additional quotas based on your sales volume. For instance, if you have processed 200-500 orders in the past seven days, you can apply for 200 decryption quotas per day. When applying, provide a reason such as 'assisting with order fulfillment' to justify your request. Once approved, you can decrypt the specified number of orders by clicking on the small eye icon in the order details section. This reveals the customer's phone number, name, and shipping address. This process ensures that you have the necessary information to fulfill orders efficiently."
+    },
+    {
+        "Title": "Integrating Electronic Waybills for Order Fulfillment",
+        "Keywords": [
+            "Electronic Waybills",
+            "Order Fulfillment",
+            "Xiaohongshu"
+        ],
+        "Content": "Integrating electronic waybills is crucial for efficient order fulfillment on Xiaohongshu. Merchants can use electronic waybills provided by Xiaohongshu or their own store's electronic waybills. To do this, contact the store to obtain the electronic waybill details. Once you have the electronic waybill, you can integrate it with your Xiaohongshu store. This integration allows for seamless order processing and reduces the need for manual intervention. By using electronic waybills, you can streamline the shipping process, ensuring that orders are fulfilled accurately and promptly. This method also helps in tracking shipments and managing logistics more effectively, ultimately enhancing customer satisfaction."
+    }
+]
